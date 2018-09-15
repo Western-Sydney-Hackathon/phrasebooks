@@ -4,10 +4,13 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
-// Read in the xml file and convert
+// Read in the xml file and to a js object
 var xml = fs.readFileSync('Dictionary.xml', 'utf8');
 var options = {ignoreComment: true, alwaysChildren: true, compact: true};
 var result = convert.xml2js(xml, options);
+
+
+
 var result_string = JSON.stringify(result, null, '  ');
 
 fs.writeFile("test.json", result_string, (err) => {
