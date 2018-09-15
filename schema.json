@@ -42,7 +42,10 @@
           "2":"sub-topic"
         },
         "contenttags":["tag"],
-        "functiontags":[{"ask":"about what"},{"say":"what"}],
+        "functiontags":[
+          {"ask":["about what"]},
+          {"say":["what"]}
+        ],
         "notes":"notes",
       }
     }
