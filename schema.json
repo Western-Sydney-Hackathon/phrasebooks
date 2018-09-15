@@ -1,0 +1,50 @@
+{
+  "projects":[
+    {
+    "name":"CDAusE",
+    "schema":{
+        "id":"auto-increment",
+        "headword":"headword of the entry in the dictionary",
+        "context":"carrier sentence",
+        "phrases":[
+          {"ste":"standard translatable English",
+          "nsm":"natural semantic metalanguage"},
+        ],
+        "translation":null,
+        "ref":"bibtex reference",
+        "filename":null,
+        "speaker":null,
+        "category":{
+          "1":"chapter",
+          "2":"section"
+        },
+        "contenttags":["relatedphrase","relatedvalue","relatedword"],
+        "functiontags":null,
+        "notes":"notes",
+      }
+    },
+    {
+    "name":"Chunkbank",
+    "schema":{
+        "id":"auto-increment",
+        "headword":null,
+        "context":null,
+        "phrases":[
+          {"Mangarrayi":"Mangarrayi morpheme or word",
+          "English":"English gloss"},
+        ],
+        "translation":"translation of whole chunk",
+        "ref":"bibtex reference",
+        "filename":null,
+        "speaker":null,
+        "category":{
+          "1":"topic",
+          "2":"sub-topic"
+        },
+        "contenttags":["tag"],
+        "functiontags":[{"ask":"about what"},{"say":"what"}],
+        "notes":"notes",
+      }
+    }
+  ]
+}
