@@ -4,6 +4,7 @@
     "id": 1,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-ngi-yag jorroy-wu",
     "english": "Let's you & I go bush medicine for"}
@@ -13,9 +14,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -23,6 +24,7 @@
     "id": 2,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jorroy ngirla-minyi",
     "english": "bush medicine they & I were getting"}
@@ -32,9 +34,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -42,6 +44,7 @@
     "id": 3,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-ngirla-yag",
     "english": "maybe you mob & I go"}
@@ -51,9 +54,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -61,6 +64,7 @@
     "id": 4,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-ngirla-mi",
     "english": "maybe you mob & I get"}
@@ -70,9 +74,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -80,6 +84,7 @@
     "id": 5,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-ngirla-yag a-ngirla-mi",
     "english": "could you mob & I go and maybe you mob & I get"}
@@ -89,9 +94,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -99,6 +104,7 @@
     "id": 6,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nanangganawa ga-ngirla-mi",
     "english": "then   Pres   they & I get"}
@@ -108,9 +114,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -118,6 +124,7 @@
     "id": 7,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "warling nyan-mi",
     "english": "darling  I / you get"}
@@ -127,9 +134,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -137,6 +144,7 @@
     "id": 8,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nya-mi-bayi narra jorroy",
     "english": "Pres you/it  get (emph) that bush medicine"}
@@ -146,9 +154,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -156,6 +164,7 @@
     "id": 9,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jorroy nya-mi",
     "english": "bush medicine you/it get"}
@@ -165,9 +174,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -175,6 +184,7 @@
     "id": 10,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra-ba jorroy nya-mi",
     "english": "that (emph) bush medicine you get"}
@@ -184,9 +194,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -194,6 +204,7 @@
     "id": 11,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nya-mi",
     "english": "you /it get"}
@@ -203,9 +214,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -213,6 +224,7 @@
     "id": 12,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wurr-yarr'mari",
     "english": "those two/it  were taking off"}
@@ -222,9 +234,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -232,6 +244,7 @@
     "id": 13,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Jagina niwa?",
     "english": "what    this"}
@@ -241,9 +254,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -251,6 +264,7 @@
     "id": 14,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mob ga-nya-ma",
     "english": "cut   Pres  you/it"}
@@ -260,9 +274,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -270,6 +284,7 @@
     "id": 15,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mod ga-nya-mi",
     "english": "cut    Pres  you/it"}
@@ -279,9 +294,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -289,6 +304,7 @@
     "id": 16,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mob ja-wurla-ma ga-ngirla-ga-n",
     "english": "break  Pres they/it Pres They & I take"}
@@ -298,9 +314,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -308,6 +324,7 @@
     "id": 17,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ber' ga-nya-ma",
     "english": "cut   Pres you"}
@@ -317,9 +334,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -327,6 +344,7 @@
     "id": 18,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jurrgjurrg-nawu ja-yirr'ma na-dim-gu",
     "english": "leah    its           Pres  take off for sore"}
@@ -336,9 +354,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -346,6 +364,7 @@
     "id": 19,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra jurrgjurrg",
     "english": "that  leaf"}
@@ -355,9 +374,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -365,6 +384,7 @@
     "id": 20,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gurlag",
     "english": null}
@@ -374,9 +394,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -384,6 +404,7 @@
     "id": 21,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gilirr",
     "english": null}
@@ -393,9 +414,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -403,6 +424,7 @@
     "id": 22,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "darlugdarlug",
     "english": null}
@@ -412,9 +434,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -422,6 +444,7 @@
     "id": 23,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra-ba gergerg",
     "english": "that Emph  teabag plant"}
@@ -431,9 +454,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -441,6 +464,7 @@
     "id": 24,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-jorroy-wu",
     "english": "for bush medicine"}
@@ -450,9 +474,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Going for bush medicine"
   },
@@ -460,6 +484,7 @@
     "id": 25,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nya-wirrijma",
     "english": "Pres you/it scrape"}
@@ -469,9 +494,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -479,6 +504,7 @@
     "id": 26,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-nya-wirrijma-wu",
     "english": "should  you/it  scrape"}
@@ -488,9 +514,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -498,6 +524,7 @@
     "id": 27,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wirrijma nyanggi",
     "english": "scrape     you"}
@@ -507,9 +534,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -517,6 +544,7 @@
     "id": 28,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "lorlb ga-nya-mi dab-nawu",
     "english": "skin im  Pres you/it bark his"}
@@ -526,9 +554,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -536,6 +564,7 @@
     "id": 29,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wilg ga-nya-bu-n",
     "english": "scrape  Pres you/it"}
@@ -545,9 +574,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -555,6 +584,7 @@
     "id": 30,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jurrgjurrg mayawa ja-bardnama",
     "english": "leaf   now          Pres (he or she) put"}
@@ -564,9 +594,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -574,6 +604,7 @@
     "id": 31,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jurrgjurrg-nawu",
     "english": "leaf             it's"}
@@ -583,9 +614,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -593,6 +624,7 @@
     "id": 32,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra jurrgjurrg",
     "english": "that        leaf"}
@@ -602,9 +634,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -612,6 +644,7 @@
     "id": 33,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Yirr' wari wardij jurrgjurrg",
     "english": "was throwing  also leaves"}
@@ -621,9 +654,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -631,6 +664,7 @@
     "id": 34,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra ngugu mi",
     "english": "that water get"}
@@ -640,9 +674,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -650,6 +684,7 @@
     "id": 35,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-mi wardij ngugu",
     "english": "Pres (she) she is also getting water"}
@@ -659,9 +694,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -669,6 +704,7 @@
     "id": 36,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ya-bardnama-wu ngugu",
     "english": "should put  in     water"}
@@ -678,9 +714,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -688,6 +724,7 @@
     "id": 37,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-barrigon-gan nya-bardnama",
     "english": "in billy     you/it put"}
@@ -697,9 +734,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -707,6 +744,7 @@
     "id": 38,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "barlarlbarlarl a-nya-bardnama",
     "english": "billy            maybe  you  put"}
@@ -716,9 +754,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -726,6 +764,7 @@
     "id": 39,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-nya-bardnama jalugmayin-gan",
     "english": "maybe   you put     cold   in"}
@@ -735,9 +774,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -745,6 +784,7 @@
     "id": 40,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-nya-bardnama milgmilg  a-nya-ma-wu a-nya-ba'ma",
     "english": "should you/it put cold      will be you         can you wash"}
@@ -754,9 +794,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -764,6 +804,7 @@
     "id": 41,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "should you/it put cold      will be you         can you wash",
     "english": "ja-bardnama warlayjnyin-gan"}
@@ -773,9 +814,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -783,6 +824,7 @@
     "id": 42,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-bardnama warlayjnyin-gan",
     "english": "Pres (he/it) put     shade   in"}
@@ -792,9 +834,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -802,6 +844,7 @@
     "id": 43,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-nya-mi wuray",
     "english": "maybe you/it  get  later"}
@@ -811,9 +854,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -821,6 +864,7 @@
     "id": 44,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bardnama damayi-yan",
     "english": "put             fire        on"}
@@ -830,9 +874,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -840,6 +884,7 @@
     "id": 45,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "damayi-an ja-na-n",
     "english": "fire   on    Pres (he/it) burn"}
@@ -849,9 +894,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -859,6 +904,7 @@
     "id": 46,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "babnamdag damayi-yan",
     "english": null}
@@ -868,9 +914,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -878,6 +924,7 @@
     "id": 47,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "barrigon-gan",
     "english": "cup       in"}
@@ -887,9 +934,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -897,6 +944,7 @@
     "id": 48,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "damayi-an a-nya-bardnama",
     "english": "fire     on     maybe  you/it put"}
@@ -906,9 +954,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -916,6 +964,7 @@
     "id": 49,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-nya-naya-wu na-damayi-an",
     "english": "should you/it cook on the fire"}
@@ -925,9 +974,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -935,6 +984,7 @@
     "id": 50,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garrag-wa nya-bardnama",
     "english": "big mob the you/it put"}
@@ -944,9 +994,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -954,6 +1004,7 @@
     "id": 51,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wuray a-nya-mi",
     "english": "should you/it get"}
@@ -963,9 +1014,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -973,6 +1024,7 @@
     "id": 52,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-wurla-bardnama mamuny-gan",
     "english": "Pres  they/it  put       food        in"}
@@ -982,9 +1034,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -992,6 +1044,7 @@
     "id": 53,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ya-ni",
     "english": "can (it) rest"}
@@ -1001,9 +1054,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1011,6 +1064,7 @@
     "id": 54,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wuray jalug ya-ma-wu",
     "english": "later  gets cool  will"}
@@ -1020,9 +1074,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1030,6 +1084,7 @@
     "id": 55,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jalug ja-ma",
     "english": "is cold Pres  (it)"}
@@ -1039,9 +1094,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1049,6 +1104,7 @@
     "id": 56,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jalug ya-mayn",
     "english": "is cold   might be (it) Past"}
@@ -1058,9 +1114,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1068,6 +1124,7 @@
     "id": 57,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-milgmilg ja-ni",
     "english": "with cold Pres (it) is"}
@@ -1077,9 +1134,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1087,6 +1144,7 @@
     "id": 58,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ber� ja-wurla-ma",
     "english": "cut  Pres they/it"}
@@ -1096,9 +1154,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1106,6 +1164,7 @@
     "id": 59,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wub ja-wurla-war na-damayi-an",
     "english": "throw on fire Pres they/it fire     on"}
@@ -1115,9 +1174,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1125,6 +1184,7 @@
     "id": 60,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-wurla-bardnama na-barlarlbarlarl-an",
     "english": "Pres they/it     put                 billy              in"}
@@ -1134,9 +1194,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1144,6 +1204,7 @@
     "id": 61,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jaw bu",
     "english": "pour"}
@@ -1153,9 +1214,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1163,6 +1224,7 @@
     "id": 62,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jaw ja-bu-n ngugu",
     "english": "pour  Pres (he/it) water"}
@@ -1172,9 +1234,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1182,6 +1244,7 @@
     "id": 63,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jaw ja-bu-n",
     "english": "pour  Pres (he/it)"}
@@ -1191,9 +1254,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1201,6 +1264,7 @@
     "id": 64,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "lurlurl'-wi ja-ga-n",
     "english": "pile up without Pres he/it take"}
@@ -1210,9 +1274,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1220,6 +1284,7 @@
     "id": 65,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "larla-yag",
     "english": "dry out  Past"}
@@ -1229,9 +1294,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1239,6 +1304,7 @@
     "id": 66,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "larla-yag 2",
     "english": "dry out  Past"}
@@ -1248,9 +1314,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1258,6 +1324,7 @@
     "id": 67,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mamayanggan",
     "english": "old"}
@@ -1267,9 +1334,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1277,6 +1344,7 @@
     "id": 68,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mangaya ja-mi na-yijarr",
     "english": "maybe  Pres (it)gets    for good"}
@@ -1286,9 +1354,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1296,6 +1364,7 @@
     "id": 69,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mayawa-ja",
     "english": "now    emph"}
@@ -1305,9 +1374,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1315,6 +1384,7 @@
     "id": 70,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narriwa-ja",
     "english": "that    emph"}
@@ -1324,9 +1394,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Preparing bush medicine"
   },
@@ -1334,6 +1404,7 @@
     "id": 71,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nya-ba'ma_",
     "english": "Pres you wash"}
@@ -1343,9 +1414,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1353,6 +1424,7 @@
     "id": 72,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mangaya nya-ba'ma-wu",
     "english": "maybe    you   wash   will"}
@@ -1362,9 +1434,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1372,6 +1444,7 @@
     "id": 73,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narriwa nya-mi nya-ba'ma",
     "english": "that one you/it get  you  bogey"}
@@ -1381,9 +1454,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1391,6 +1464,7 @@
     "id": 74,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nya-ba'ma",
     "english": "you bogey"}
@@ -1400,9 +1474,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1410,6 +1484,7 @@
     "id": 75,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bordewg malam-nawu yaw' yaw' ngarla-bu-yi-n narriwa-ba",
     "english": "bad          body   his    splash water we mob self Pres that  Emph"}
@@ -1419,9 +1494,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1429,6 +1504,7 @@
     "id": 76,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mulugmulug nya-ba'mari?",
     "english": "yesterday      you   were bogeying?"}
@@ -1438,9 +1514,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1448,6 +1524,7 @@
     "id": 77,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mulugmulug",
     "english": "yesterday"}
@@ -1457,9 +1534,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1467,6 +1544,7 @@
     "id": 78,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nga-ba'mari",
     "english": "I      was bogeying"}
@@ -1476,9 +1554,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1486,6 +1564,7 @@
     "id": 79,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yaw'yaw' nya-bu-yi-n",
     "english": "splash water you/it  self Pres"}
@@ -1495,9 +1574,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1505,6 +1584,7 @@
     "id": 80,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yaw'yaw' a-nya-buyi-n",
     "english": "splash water should you/it self"}
@@ -1514,9 +1594,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1524,6 +1604,7 @@
     "id": 81,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngugu nya-ja",
     "english": "water   you/it  drink"}
@@ -1533,9 +1614,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1543,6 +1624,7 @@
     "id": 82,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra nya-ja",
     "english": "that    you/it drink"}
@@ -1552,9 +1634,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1562,6 +1644,7 @@
     "id": 83,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jagina ja-wu ngugu",
     "english": "what   drink will (he/it) water"}
@@ -1571,9 +1654,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1581,6 +1664,7 @@
     "id": 84,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "what   drink will (he/it) water",
     "english": "jijga-ya a-nya-ja jalugma-wu"}
@@ -1590,9 +1674,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1600,6 +1684,7 @@
     "id": 85,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jijga-ya a-nya-ja jalugma-wu",
     "english": "little   maybe  you drink for cold"}
@@ -1609,9 +1694,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1619,6 +1704,7 @@
     "id": 86,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-jijga",
     "english": "for little"}
@@ -1628,9 +1714,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1638,6 +1724,7 @@
     "id": 87,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngarla-wanggij ja-wa-n barrigod",
     "english": "female Subj I child Pres (he/it) get cup"}
@@ -1647,9 +1734,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1657,6 +1744,7 @@
     "id": 88,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nya-mi nyanggi",
     "english": "you/it get  you"}
@@ -1666,9 +1754,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1676,6 +1764,7 @@
     "id": 89,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngorrgngorrg",
     "english": "crunchy"}
@@ -1685,9 +1774,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1695,6 +1784,7 @@
     "id": 90,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "marrb marrb nama na-wirla",
     "english": "tie   tie                     with   vine"}
@@ -1704,9 +1794,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1714,6 +1804,7 @@
     "id": 91,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "marrb nama a-nya-ma-wu",
     "english": "tie               should  you/it do"}
@@ -1723,9 +1814,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1733,6 +1824,7 @@
     "id": 92,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "marrb nama",
     "english": null}
@@ -1742,9 +1834,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1752,6 +1844,7 @@
     "id": 93,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-birlbu ma ngangga",
     "english": "strong   make  you/it"}
@@ -1761,9 +1854,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1771,6 +1864,7 @@
     "id": 94,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra mun",
     "english": "that    all /only"}
@@ -1780,9 +1874,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1790,6 +1884,7 @@
     "id": 95,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jalug ga-nya-ma malam-ngangga",
     "english": "is cold  Pres  you  body   your"}
@@ -1799,9 +1894,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1809,6 +1904,7 @@
     "id": 96,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jalugmayin narra-nawu     wurr-nani        nga-ba'mari",
     "english": "cold           that  its       those two/it were burning I was bogeying"}
@@ -1818,9 +1914,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1828,6 +1924,7 @@
     "id": 97,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nya-ba'ma jalug nya-ma mangaya barlalaga",
     "english": "you   bogey  is  cold  you   maybe  today"}
@@ -1837,9 +1934,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1847,6 +1944,7 @@
     "id": 98,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mangaya bamburriyi nya-mi-wu",
     "english": "maybe       better          you/it  get  will"}
@@ -1856,9 +1954,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1866,6 +1964,7 @@
     "id": 99,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nya-mi-wu",
     "english": "you/it get   will"}
@@ -1875,9 +1974,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1885,6 +1984,7 @@
     "id": 100,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mangaya bobob nya-ma-wu nya-nan-gu malam-ngangga  narriwa a-nya-ba'ma",
     "english": "maybe        hot   you         will be you burn body your  that  should you/it bogey"}
@@ -1894,9 +1994,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1904,6 +2004,7 @@
     "id": 101,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "maybe        hot   you         will be you burn body your  that  should you/it bogey",
     "english": "na-dim-gu"}
@@ -1913,9 +2014,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1923,6 +2024,7 @@
     "id": 102,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-dim-gu",
     "english": "for sores"}
@@ -1932,9 +2034,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1942,6 +2044,7 @@
     "id": 103,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "niwa ngarla-bardnama ga-ngarla-nidba dib",
     "english": "This we mob/it   put      Pres   we mob   have sore"}
@@ -1951,9 +2054,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH & BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH & BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Using Bush medicine"
   },
@@ -1961,6 +2064,7 @@
     "id": 104,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Na-jal",
     "english": null}
@@ -1970,9 +2074,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -1980,6 +2084,7 @@
     "id": 105,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Na-jig",
     "english": null}
@@ -1989,9 +2094,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -1999,6 +2104,7 @@
     "id": 106,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Garlyag",
     "english": null}
@@ -2008,9 +2114,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2018,6 +2124,7 @@
     "id": 107,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Bulula",
     "english": null}
@@ -2027,9 +2134,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2037,6 +2144,7 @@
     "id": 108,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Ngarrmirn.gan",
     "english": null}
@@ -2046,9 +2154,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2056,6 +2164,7 @@
     "id": 109,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Manyjurn.gan",
     "english": null}
@@ -2065,9 +2174,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2075,6 +2184,7 @@
     "id": 110,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yarrayg galma wa-niyn",
     "english": null}
@@ -2084,9 +2194,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2094,6 +2204,7 @@
     "id": 111,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Guyanggan",
     "english": null}
@@ -2103,9 +2214,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2113,6 +2224,7 @@
     "id": 112,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Little Jembere",
     "english": null}
@@ -2122,9 +2234,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2132,6 +2244,7 @@
     "id": 113,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Jembere",
     "english": null}
@@ -2141,9 +2254,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2151,6 +2264,7 @@
     "id": 114,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Jilkminggan (Pron Jilkmirngan)",
     "english": null}
@@ -2160,9 +2274,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2170,6 +2284,7 @@
     "id": 115,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngaya Jilkmirn.kan ka-nga-ni",
     "english": null}
@@ -2179,9 +2294,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2189,6 +2304,7 @@
     "id": 116,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Barlmarrag",
     "english": null}
@@ -2198,9 +2314,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2208,6 +2324,7 @@
     "id": 117,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "barlmarang-garlama",
     "english": null}
@@ -2217,9 +2334,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2227,6 +2344,7 @@
     "id": 119,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Murrwale",
     "english": null}
@@ -2236,9 +2354,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2246,6 +2364,7 @@
     "id": 120,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Naburl",
     "english": null}
@@ -2255,9 +2374,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2265,6 +2384,7 @@
     "id": 121,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Gorrowan",
     "english": null}
@@ -2274,9 +2394,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2284,6 +2404,7 @@
     "id": 122,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Na-murrinyjayan",
     "english": null}
@@ -2293,9 +2414,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2303,6 +2424,7 @@
     "id": 123,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Jarlmurrag",
     "english": null}
@@ -2312,9 +2434,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2322,6 +2444,7 @@
     "id": 124,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Mularag",
     "english": null}
@@ -2331,9 +2454,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2341,6 +2464,7 @@
     "id": 125,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Na-jig",
     "english": null}
@@ -2350,9 +2474,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2360,6 +2484,7 @@
     "id": 126,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Gorran",
     "english": null}
@@ -2369,9 +2494,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2379,6 +2504,7 @@
     "id": 127,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Siding",
     "english": null}
@@ -2388,9 +2514,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2398,6 +2524,7 @@
     "id": 128,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Siding-gana",
     "english": null}
@@ -2407,9 +2534,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2417,6 +2544,7 @@
     "id": 129,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Yumbugi",
     "english": null}
@@ -2426,9 +2554,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2436,6 +2564,7 @@
     "id": 130,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Gulun",
     "english": null}
@@ -2445,9 +2574,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Place"
-		}
+			"1":  "Country Place",
+    		"2": "Place"
+		},
     "contenttags": null,
     "functiontags": "names of places"
   },
@@ -2455,6 +2584,7 @@
     "id": 131,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "balayi ngugu",
     "english": null}
@@ -2464,9 +2594,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2474,6 +2604,7 @@
     "id": 132,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "big      water",
     "english": null}
@@ -2483,9 +2614,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2493,6 +2624,7 @@
     "id": 133,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dardardarl",
     "english": null}
@@ -2502,9 +2634,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2512,6 +2644,7 @@
     "id": 134,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "lurblurbminyi",
     "english": null}
@@ -2521,9 +2654,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2531,6 +2664,7 @@
     "id": 135,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jalwayi",
     "english": null}
@@ -2540,9 +2674,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2550,6 +2684,7 @@
     "id": 136,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Ngajgan",
     "english": null}
@@ -2559,9 +2694,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2569,6 +2704,7 @@
     "id": 137,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "birn.gan",
     "english": null}
@@ -2578,9 +2714,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2588,6 +2724,7 @@
     "id": 138,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "werdeng",
     "english": null}
@@ -2597,9 +2734,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2607,6 +2744,7 @@
     "id": 139,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngugu-wi",
     "english": null}
@@ -2616,9 +2754,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2626,6 +2764,7 @@
     "id": 140,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wurray",
     "english": null}
@@ -2635,9 +2774,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2645,6 +2784,7 @@
     "id": 141,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bundal",
     "english": null}
@@ -2654,9 +2794,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2664,6 +2804,7 @@
     "id": 142,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngugu",
     "english": null}
@@ -2673,9 +2814,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2683,6 +2824,7 @@
     "id": 143,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gurrungarran",
     "english": null}
@@ -2692,9 +2834,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2702,6 +2844,7 @@
     "id": 144,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jadba",
     "english": null}
@@ -2711,9 +2854,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2721,6 +2864,7 @@
     "id": 145,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "darrarra",
     "english": null}
@@ -2730,9 +2874,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2740,6 +2884,7 @@
     "id": 146,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wurlulu (wurlurlu)",
     "english": null}
@@ -2749,9 +2894,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Landscape"
-		}
+			"1":  "Country Place",
+    		"2": "Landscape"
+		},
     "contenttags": null,
     "functiontags": "describing the landscape"
   },
@@ -2759,6 +2904,7 @@
     "id": 147,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gayanja",
     "english": null}
@@ -2768,9 +2914,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2778,6 +2924,7 @@
     "id": 148,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "biya",
     "english": null}
@@ -2787,9 +2934,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2797,6 +2944,7 @@
     "id": 149,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gayarra",
     "english": null}
@@ -2806,9 +2954,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2816,6 +2964,7 @@
     "id": 150,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gawarr",
     "english": null}
@@ -2825,9 +2974,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2835,6 +2984,7 @@
     "id": 151,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bujba",
     "english": null}
@@ -2844,9 +2994,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2854,6 +3004,7 @@
     "id": 152,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngariman",
     "english": null}
@@ -2863,9 +3014,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2873,6 +3024,7 @@
     "id": 153,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gal' ma ja-ni na-ganywar-bayi gany(a)jang-gana",
     "english": "climb up  Pres (he)   Subj  sun   Emphasis east        from"}
@@ -2882,9 +3034,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2892,6 +3044,7 @@
     "id": 154,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gayanjang-gana gal'ma ja-ni na-ganywarr-bayi",
     "english": "east        from     climb   Pres (he) Subj   sun     Emphasis"}
@@ -2901,9 +3054,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2911,6 +3064,7 @@
     "id": 155,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-ganywarr gal'ma ja-ni nangganwa gayanja",
     "english": "Subj   sun     climb  Pres (he)   there          east"}
@@ -2920,9 +3074,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Cardinal points"
   },
@@ -2930,6 +3084,7 @@
     "id": 156,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Jana-ba wurlulu?",
     "english": "where Emphasis running water (rapids)"}
@@ -2939,9 +3094,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Asking where something is"
   },
@@ -2949,6 +3104,7 @@
     "id": 157,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Jananggan-ba ja-wurla-mi mawuj",
     "english": "where Emphasis Pres they/it get food"}
@@ -2958,9 +3114,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "Asking where something is"
   },
@@ -2968,6 +3124,7 @@
     "id": 158,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra-jaga ngariman",
     "english": "there just    south"}
@@ -2977,9 +3134,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -2987,6 +3144,7 @@
     "id": 159,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narriwa-jaga ngariman yag",
     "english": "there just    south   go"}
@@ -2996,9 +3154,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3006,6 +3164,7 @@
     "id": 160,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garri-jaga gayarra gawarr",
     "english": "over there just  west  upriver"}
@@ -3015,9 +3174,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3025,6 +3184,7 @@
     "id": 161,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garri yarri ngarla-yag",
     "english": "here  there   we     go"}
@@ -3034,9 +3194,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3044,6 +3204,7 @@
     "id": 162,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garri-wa ga-nga-yag",
     "english": "over there  Pres I go"}
@@ -3053,9 +3214,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3063,6 +3224,7 @@
     "id": 163,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nawu-wa",
     "english": "this side"}
@@ -3072,9 +3234,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3082,6 +3244,7 @@
     "id": 164,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ni-jaga gawarr",
     "english": "there just upriver"}
@@ -3091,9 +3254,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3101,6 +3264,7 @@
     "id": 165,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ni-jaga gayanja",
     "english": "there just east"}
@@ -3110,9 +3274,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3120,6 +3284,7 @@
     "id": 166,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ni-yarri-jaga wurla-yaj wurla-yinyi garriwa",
     "english": "there somewhere just they went they  were going  over there"}
@@ -3129,9 +3294,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3139,6 +3304,7 @@
     "id": 167,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "niwa-jaga galiya-wi",
     "english": "here just  far   without"}
@@ -3148,9 +3314,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3158,6 +3324,7 @@
     "id": 168,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "galiya",
     "english": "far"}
@@ -3167,9 +3334,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3177,6 +3344,7 @@
     "id": 169,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mirlirriwa",
     "english": "close by"}
@@ -3186,9 +3354,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Directions"
-		}
+			"1":  "Country Place",
+    		"2": "Directions"
+		},
     "contenttags": null,
     "functiontags": "saying where something is"
   },
@@ -3196,6 +3364,7 @@
     "id": 170,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-ganywarr",
     "english": "with   sun"}
@@ -3205,9 +3374,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3215,6 +3384,7 @@
     "id": 171,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mirlirl ja-ma    na-ganywarr",
     "english": "rise    Pres (he)  Subject sun"}
@@ -3224,9 +3394,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3234,6 +3404,7 @@
     "id": 172,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-jab ja-ninga-n",
     "english": "Subj  wind  Pres (he) come"}
@@ -3243,9 +3414,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3253,6 +3424,7 @@
     "id": 173,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gardi na-jab",
     "english": "look for  wind"}
@@ -3262,9 +3434,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3272,6 +3444,7 @@
     "id": 174,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jilg ja-wayi-n garnan",
     "english": "fall Pres (it)      rain"}
@@ -3281,9 +3454,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3291,6 +3464,7 @@
     "id": 175,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-jijga jilg ja-wayi-n garnan",
     "english": "for little fall   Pres (it)   rain"}
@@ -3300,9 +3474,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3310,6 +3484,7 @@
     "id": 176,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dayi na-balayi jilg wayi-n",
     "english": "not   for big      fall      Pres"}
@@ -3319,9 +3494,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3329,6 +3504,7 @@
     "id": 177,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "miyarr-awu",
     "english": "cloud   his"}
@@ -3338,9 +3514,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3348,6 +3524,7 @@
     "id": 178,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-miyarr-awu ja-ninga-n jard ja-bu-n ganywarr",
     "english": "Subj cloud his   Pres come shut off  Pres (it)  sun"}
@@ -3357,9 +3534,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3367,6 +3544,7 @@
     "id": 179,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "budij ja-bu-n na-jab",
     "english": "swirl   Pres (He) Subj wind"}
@@ -3376,9 +3554,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3386,6 +3564,7 @@
     "id": 180,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "larrg ga-ngan-daya",
     "english": "bite   Pres it/me"}
@@ -3395,9 +3574,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3405,6 +3584,7 @@
     "id": 181,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "milgmilg larrg ga-ngan-daya",
     "english": "cold            bite  Pres it/me"}
@@ -3414,9 +3594,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3424,6 +3604,7 @@
     "id": 182,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bobob ga-nga-ma",
     "english": "am hot  Pres  I"}
@@ -3433,9 +3614,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "saying what the weather is like"
   },
@@ -3443,6 +3624,7 @@
     "id": 183,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dayi na-duy-an ga-ngirla-ni",
     "english": "not     in  hole   Pres  I & them  sit"}
@@ -3452,9 +3634,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3462,6 +3644,7 @@
     "id": 184,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dayi warawad ngirla-yag na-balayi na-garnan",
     "english": "not wallk around  I & them in  big    in  rain"}
@@ -3471,9 +3654,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3481,6 +3664,7 @@
     "id": 185,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-ngan-na-n",
     "english": "Pres it/me    burn"}
@@ -3490,9 +3674,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3500,6 +3684,7 @@
     "id": 186,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-ni nanwa ganywarr",
     "english": "Pres I  sit   here     the sun"}
@@ -3509,9 +3694,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3519,6 +3704,7 @@
     "id": 187,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ganywarr-wu",
     "english": "sun           for"}
@@ -3528,9 +3714,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3538,6 +3724,7 @@
     "id": 188,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "larrg ngan-darlag lurlurr ga-nga-yag na-duy-an",
     "english": "bit (Past)  it/me     into    Pres I go in hole"}
@@ -3547,9 +3734,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3557,6 +3744,7 @@
     "id": 189,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-ganywarr ga-ngan-na-n ga-nga-yag na-warlayjnyin-garlama a-nga-ni",
     "english": "in     sun       Pres he/me burn Pres I go towards   shade             might I sit"}
@@ -3566,9 +3754,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3576,6 +3764,7 @@
     "id": 190,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "in     sun       Pres he/me burn Pres I go towards   shade             might I sit",
     "english": "warlayjnyin"}
@@ -3585,9 +3774,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3595,6 +3784,7 @@
     "id": 191,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "warlayjnyin",
     "english": "shade"}
@@ -3604,9 +3794,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3614,6 +3804,7 @@
     "id": 192,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "milgmilg",
     "english": "shade"}
@@ -3623,9 +3814,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Saying what you doing in certain weather"
   },
@@ -3633,6 +3824,7 @@
     "id": 193,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "milgmilg",
     "english": "cold"}
@@ -3642,9 +3834,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Seasons"
   },
@@ -3652,6 +3844,7 @@
     "id": 194,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-milgmilng-gu",
     "english": "for  cold"}
@@ -3661,9 +3854,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Seasons"
   },
@@ -3671,6 +3864,7 @@
     "id": 195,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ganywarr",
     "english": "sun"}
@@ -3680,9 +3874,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Seasons"
   },
@@ -3690,6 +3884,7 @@
     "id": 196,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-ganywarr-wu",
     "english": "for sun"}
@@ -3699,9 +3894,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Seasons"
   },
@@ -3709,6 +3904,7 @@
     "id": 197,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garnan",
     "english": "rain"}
@@ -3718,9 +3914,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Seasons"
   },
@@ -3728,6 +3924,7 @@
     "id": 198,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-garnan-gu",
     "english": "for rain"}
@@ -3737,9 +3934,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "Country Place",
-    		2: "Weather"
-		}
+			"1":  "Country Place",
+    		"2": "Weather"
+		},
     "contenttags": null,
     "functiontags": "Seasons"
   },
@@ -3747,6 +3944,7 @@
     "id": 200,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra'narra ga-nga-ba'ma",
     "english": "every day   Pres I   wash"}
@@ -3756,9 +3954,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Body Parts"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Body Parts"
+		},
     "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
     "functiontags": null
   },
@@ -3766,6 +3964,7 @@
     "id": 201,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-warlagwarlagbu-n",
     "english": "Pres I   wash"}
@@ -3775,9 +3974,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Body Parts"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Body Parts"
+		},
     "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
     "functiontags": null
   },
@@ -3785,6 +3984,7 @@
     "id": 202,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wurrg a-nga-bu-n-gu ngadburr-nganju",
     "english": "wash  will I                  hand        my"}
@@ -3794,9 +3994,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Body Parts"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Body Parts"
+		},
     "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
     "functiontags": null
   },
@@ -3804,6 +4004,7 @@
     "id": 203,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gulyugulyu ga-nga-bu-yi-n",
     "english": "clean teeth  Pres I        self"}
@@ -3813,9 +4014,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Body Parts"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Body Parts"
+		},
     "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
     "functiontags": null
   },
@@ -3823,6 +4024,7 @@
     "id": 204,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gulyugulyu a-nga-bu-yi-n-gu",
     "english": "clean teeth Future I      self"}
@@ -3832,9 +4034,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Body Parts"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Body Parts"
+		},
     "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
     "functiontags": null
   },
@@ -3842,6 +4044,7 @@
     "id": 205,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "narra'narra yijarr ga-nga-mi-nyjiyi-n",
     "english": "every day   good   Pres  I   get self"}
@@ -3851,9 +4054,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Body Parts"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Body Parts"
+		},
     "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
     "functiontags": null
   },
@@ -3861,6 +4064,7 @@
     "id": 206,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "milgmilg larrg ga-ngan-daya",
     "english": "cold         bite  Pres it / me"}
@@ -3870,9 +4074,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "States"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "States"
+		},
     "contenttags": null,
     "functiontags": null
   },
@@ -3880,6 +4084,7 @@
     "id": 207,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bobob ga-nga-ma",
     "english": "feel hot Pres I"}
@@ -3889,9 +4094,9 @@
     "speaker": "amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "States"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "States"
+		},
     "contenttags": null,
     "functiontags": null
   },
@@ -3899,6 +4104,7 @@
     "id": 208,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wolorr ga-nga-ma",
     "english": "feel hungry Pres I"}
@@ -3908,9 +4114,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "States"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "States"
+		},
     "contenttags": null,
     "functiontags": null
   },
@@ -3918,6 +4124,7 @@
     "id": 209,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wolorr ga-nga-ma durdurla",
     "english": "feel hungry Pres I     properly"}
@@ -3927,9 +4134,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "States"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "States"
+		},
     "contenttags": null,
     "functiontags": null
   },
@@ -3937,6 +4144,7 @@
     "id": 210,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wolorr ga-nga-ma durdurla",
     "english": "feel hungry Pres I     properly"}
@@ -3946,9 +4154,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "States"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "States"
+		},
     "contenttags": null,
     "functiontags": null
   },
@@ -3956,6 +4164,7 @@
     "id": 211,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dayi worlorr ga-nga-ma durdurla",
     "english": "not   feel hungry Pres I   properly"}
@@ -3965,9 +4174,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "States"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "States"
+		},
     "contenttags": null,
     "functiontags": null
   },
@@ -3975,6 +4184,7 @@
     "id": 212,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "Jananggari-ba ga-nya-murrma?",
     "english": "what?      main word  Pres you sick"}
@@ -3984,9 +4194,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Asking what's wrong"
   },
@@ -3994,6 +4204,7 @@
     "id": 213,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nya-murrma miliyn-ngangga?",
     "english": "Pres you sore     nose    your"}
@@ -4003,9 +4214,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Asking what's wrong"
   },
@@ -4013,6 +4224,7 @@
     "id": 214,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngadburr-angga mob nya-mayn?",
     "english": "hand         your      break   you"}
@@ -4022,9 +4234,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Asking what's wrong"
   },
@@ -4032,6 +4244,7 @@
     "id": 215,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mulugmulug-wa miliyn-ngangga mob nya-mayn?",
     "english": "yesterday  Emph  nose     your     broke (Past)  you/it"}
@@ -4041,9 +4254,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Asking what's wrong"
   },
@@ -4051,6 +4264,7 @@
     "id": 216,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-murrma",
     "english": "Pres I sick"}
@@ -4060,9 +4274,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4070,6 +4284,7 @@
     "id": 217,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dara-nganju ga-nga-murrma",
     "english": "stomach my  Pres I  sore"}
@@ -4079,9 +4294,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4089,6 +4304,7 @@
     "id": 218,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-murrma dara-nganju",
     "english": "Pres I     sore    stomach my"}
@@ -4098,9 +4314,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4108,6 +4324,7 @@
     "id": 219,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bab-nganju lirlij nga-ma",
     "english": null}
@@ -4117,9 +4334,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4127,6 +4344,7 @@
     "id": 220,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-balayi  na-muj",
     "english": "Subj T big  Subj T native bee"}
@@ -4136,9 +4354,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4146,6 +4364,7 @@
     "id": 221,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-momomin ga-ngan-daya",
     "english": "Subj T March fly  Pres it / me  bite"}
@@ -4155,9 +4374,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4165,6 +4384,7 @@
     "id": 222,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-muj ngan-darlag",
     "english": "Subj T native bee  it / me  bit (Past)"}
@@ -4174,9 +4394,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4184,6 +4404,7 @@
     "id": 223,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngan-larrjmayn na-landi",
     "english": "it/me  scratched (Past) Subject T tree"}
@@ -4193,9 +4414,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4203,6 +4424,7 @@
     "id": 224,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wuray jard a-nya-jaygin-gu wurng-garlama",
     "english": "later    go back should you     work    to"}
@@ -4212,9 +4434,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4222,6 +4444,7 @@
     "id": 225,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mayawa yalala nga-mayn",
     "english": "now       was happy (Past)  I"}
@@ -4231,9 +4454,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4241,6 +4464,7 @@
     "id": 226,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "head my     with forehead my  whole lot    Pres  I  burn",
     "english": "ga-nga-gar�garma"}
@@ -4250,9 +4474,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4260,6 +4484,7 @@
     "id": 227,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yag mayawa gurrwaran-garlama medicine-gu",
     "english": "go      now         doctor        to           medicine  for"}
@@ -4269,9 +4494,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   },
@@ -4279,6 +4504,7 @@
     "id": 228,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gilirr",
     "english": null}
@@ -4288,9 +4514,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4298,6 +4524,7 @@
     "id": 229,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-gurrajnyin lurlurl� bu-yag",
     "english": "with blood         pile up     self (Past)  (it)"}
@@ -4307,9 +4534,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4317,6 +4544,7 @@
     "id": 230,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jarrg buyag",
     "english": "cut himself / herself (Past)"}
@@ -4326,9 +4554,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4336,6 +4564,7 @@
     "id": 231,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "warlarrwarlarrmin ja-nidba",
     "english": "diarrhea                Pres (he) has"}
@@ -4345,9 +4574,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4355,6 +4584,7 @@
     "id": 232,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jarrij many jarrg bu-yag",
     "english": "slipped (Past) (he)    cut   self (Past)"}
@@ -4364,9 +4594,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4374,6 +4604,7 @@
     "id": 233,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jarrg bu-ni juya",
     "english": "cut     was (Past Cont) (he)  meat"}
@@ -4383,9 +4614,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4393,6 +4624,7 @@
     "id": 234,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-murrma, jard la-judma marri-yu",
     "english": "Pres sick     send back  you mob/him  let  sleep"}
@@ -4402,9 +4634,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   },
@@ -4412,6 +4644,7 @@
     "id": 235,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jijga-bana yalala nga-ma malam-nganju",
     "english": "little   one    am happy I        body    my"}
@@ -4421,9 +4654,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4431,6 +4664,7 @@
     "id": 236,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yalala ga-nga-ma",
     "english": "am happy Pres I"}
@@ -4440,9 +4674,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4450,6 +4684,7 @@
     "id": 237,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yulgmirn nga-jirray  marnday",
     "english": "sugar        I/it      ate (Past) sweet"}
@@ -4459,9 +4694,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4469,6 +4704,7 @@
     "id": 238,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "layn-nganju mob nga-mayn",
     "english": "leg    my     broke Past  I/it"}
@@ -4478,9 +4714,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4488,6 +4724,7 @@
     "id": 239,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "layn-nganju mob nga-mayn   (slowed down )",
     "english": "leg    my     broke Past  I/it"}
@@ -4497,9 +4734,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4507,6 +4744,7 @@
     "id": 240,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nginyjag nga-ni na-school-an",
     "english": "can't          I     be    school  at"}
@@ -4516,9 +4754,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4526,6 +4764,7 @@
     "id": 241,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jarrg nga-buyag ngadburr-nganju",
     "english": "cut myself (Past) I     hand  my"}
@@ -4535,9 +4774,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4545,6 +4784,7 @@
     "id": 242,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dayi nga-yura-b",
     "english": "not   I       not sleep Past"}
@@ -4554,9 +4794,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4564,6 +4804,7 @@
     "id": 243,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dayi nga-yura-b",
     "english": "not   I       not sleep Past"}
@@ -4573,9 +4814,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4583,6 +4824,7 @@
     "id": 244,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-mirnurr ga-ngan-bu-n na-barlanggan",
     "english": "Subj T cold  Pres it / me hit  Subj T new"}
@@ -4592,9 +4834,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4602,6 +4844,7 @@
     "id": 245,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jijga mawuj a-nya-ja",
     "english": "little   food  might you/it eat"}
@@ -4611,9 +4854,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4621,6 +4864,7 @@
     "id": 246,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jarrij nga-mayn",
     "english": "slipped (Past)  I"}
@@ -4630,9 +4874,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4640,6 +4884,7 @@
     "id": 247,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-murrma jamgarr-nganju nga-manbu-ni",
     "english": "Pres I    sore        foot        my       I        run     was (past Cont)"}
@@ -4649,9 +4894,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4659,6 +4904,7 @@
     "id": 248,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "galiya nga-yinyi",
     "english": "long way  I  walked (Past)"}
@@ -4668,9 +4914,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4678,6 +4924,7 @@
     "id": 249,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jijga mawuj a-nga-ja",
     "english": "little  food  will  I/it eat"}
@@ -4687,9 +4934,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   },
@@ -4697,6 +4944,7 @@
     "id": 250,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngugu a-nga-ja-wu       yaw ga-nga-ni",
     "english": "water  will (Future) I/it drink  rest Pres I"}
@@ -4706,9 +4954,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4716,6 +4964,7 @@
     "id": 251,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-nga-wurrbarjin-gu    a-nga-ninga-n",
     "english": "will  I get better               might I come"}
@@ -4725,9 +4974,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4735,6 +4984,7 @@
     "id": 252,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-gar�garma",
     "english": "Pres I    cough"}
@@ -4744,9 +4994,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4754,6 +5004,7 @@
     "id": 253,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jard ga-nga-jaygin barnam-garlama",
     "english": "go back Pres I           camp   to"}
@@ -4763,9 +5014,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4773,6 +5024,7 @@
     "id": 254,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jard ga-nga-jaygi-n mamaya ga-nga-yu",
     "english": "go back Pres I            first       Pres I sleep"}
@@ -4782,9 +5034,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4792,6 +5044,7 @@
     "id": 255,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gurrwaran-garlama ga-nga-yag",
     "english": "doctor             to       Pres I   go"}
@@ -4801,9 +5054,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4811,6 +5064,7 @@
     "id": 256,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yaw ga-nga-ni",
     "english": "rest Pres I"}
@@ -4820,9 +5074,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4830,6 +5084,7 @@
     "id": 257,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngadburr-nganju ga-nga-larrjmi-nyjiyi-n",
     "english": "hand          my      Pres  I/it     scratch self"}
@@ -4839,9 +5094,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4849,6 +5104,7 @@
     "id": 258,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-larrjmi-nyjiyi-n lany-nganju",
     "english": "Pres I/it scratch    self        leg     my"}
@@ -4858,9 +5114,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4868,6 +5124,7 @@
     "id": 259,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "miliyn-nganju ga-nga-larrjmi-nyjiyi-n",
     "english": "nose    my      Pres  I    scratch self"}
@@ -4877,9 +5134,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4887,6 +5144,7 @@
     "id": 260,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "miliyn-nganju ga-nga larrjmi-nyjiyi-n",
     "english": "nose     my     Pres  I/it    scratch   self"}
@@ -4896,9 +5154,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -4906,6 +5164,7 @@
     "id": 261,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wardij ga-nga-murrma na-marnej-nganju na-mamayanggan-nganju wardij na-barlanggan",
     "english": "also   Pres  I      sick      with  same  my  with old                       my        also   with  new"}
@@ -4915,9 +5174,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4925,6 +5184,7 @@
     "id": 262,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-girinyin barlalaga",
     "english": "Pres I      tired      today"}
@@ -4934,9 +5194,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4944,6 +5204,7 @@
     "id": 263,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-na lany-ngayawu",
     "english": "burn Past  (it) leg her"}
@@ -4953,9 +5214,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -4963,6 +5224,7 @@
     "id": 264,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jarrg ngan-bu-b ngadburr-nganju",
     "english": "cut    It /me     Past  hand   my"}
@@ -4972,9 +5234,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -4982,6 +5244,7 @@
     "id": 265,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "morrmorr ya-ni",
     "english": "is dark     will (it)"}
@@ -4991,9 +5254,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5001,6 +5264,7 @@
     "id": 266,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "morrmorr ja-ma",
     "english": "get dark   Pres (it)"}
@@ -5010,9 +5274,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5020,6 +5284,7 @@
     "id": 267,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngan-larrjmayn",
     "english": "it/me  scratched (Past)"}
@@ -5029,9 +5294,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5039,6 +5304,7 @@
     "id": 268,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-ngan-galgma jamgarr-nganju",
     "english": "Pres it / me  go into foot   my"}
@@ -5048,9 +5314,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5058,6 +5324,7 @@
     "id": 269,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngan-yala�yala-n",
     "english": "it / me  always bother Pres"}
@@ -5067,9 +5334,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5077,6 +5344,7 @@
     "id": 270,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-ngi-yag jorroy-wu",
     "english": "Let's you & I go bush medicine for"}
@@ -5086,9 +5354,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5096,6 +5364,7 @@
     "id": 271,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mangaya jirray bordewg mawuj",
     "english": "maybe   ate Past (he/she)   bad  food"}
@@ -5105,9 +5374,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5115,6 +5384,7 @@
     "id": 272,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bordewg mangaya nga-jirray",
     "english": "bad           maybe     I/it     ate (Past)"}
@@ -5124,9 +5394,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5134,6 +5404,7 @@
     "id": 273,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mamayanggan mangaya la-wu-na (mawuj)",
     "english": "old                     maybe   you mob / him  give Past (food)"}
@@ -5143,9 +5414,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5153,6 +5424,7 @@
     "id": 274,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "malam-ngangga mangaya bobob ga-nya-ma",
     "english": "body    your         maybe        hot  Pres  you"}
@@ -5162,9 +5434,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5172,6 +5444,7 @@
     "id": 275,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "malam-ngangga mangaya bobob ga-nya-ma",
     "english": "body  your        maybe     is hot     Pres you"}
@@ -5181,9 +5454,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5191,6 +5464,7 @@
     "id": 276,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-dumduma jarlu-nganju",
     "english": "Pres I       swell       ear my"}
@@ -5200,9 +5474,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5210,6 +5484,7 @@
     "id": 277,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-nga-dumduma jib-nganju",
     "english": "Pres I       swell       eye my"}
@@ -5219,9 +5494,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5229,6 +5504,7 @@
     "id": 278,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yulgmirn-gana  ja-murrma  ngarla-gagag",
     "english": "sugar       from  Pres (he) sick  Subject T (Female) granny"}
@@ -5238,9 +5514,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5248,6 +5524,7 @@
     "id": 279,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bab-nganju na-miyarr-nganju garrag-wa ga-nga-na-n",
     "english": "head my     with forehead my  whole lot    Pres  I  burn"}
@@ -5257,9 +5534,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5267,6 +5544,7 @@
     "id": 280,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mirn-nganju ga-nga-murrma",
     "english": "knee   my      Pres I    sore"}
@@ -5276,9 +5554,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5286,6 +5564,7 @@
     "id": 281,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-warma�warma miliny-nganju",
     "english": "Pres (it) really running  nose  my"}
@@ -5295,9 +5574,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5305,6 +5584,7 @@
     "id": 282,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ga-ngan-galma dab-nganju",
     "english": "Pres it / me  itches  skin my"}
@@ -5314,9 +5594,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5324,6 +5604,7 @@
     "id": 283,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngurlg mamayanggan",
     "english": "animal fat     old"}
@@ -5333,9 +5614,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5343,6 +5624,7 @@
     "id": 284,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garlugu  na-gurrajnyin lurlurl� bu-yag",
     "english": "poor thing  with  blood       pile up     self (Past)  (it)"}
@@ -5352,9 +5634,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5362,6 +5644,7 @@
     "id": 285,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garlugu ngadburr-awu jarrg bu-yag",
     "english": "poor thing  hand       his     cut     self (Past) (he/it)"}
@@ -5371,9 +5654,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5381,6 +5664,7 @@
     "id": 286,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "yesterday       and    her burn Past (he/it) Pres (he/it) has sore  her",
     "english": "na-gurrajnyin lurlurl� bu-yag"}
@@ -5390,9 +5674,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5400,6 +5684,7 @@
     "id": 287,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngarla wanggij-ji",
     "english": "she      child   with"}
@@ -5409,9 +5694,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5419,6 +5704,7 @@
     "id": 288,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-jagina  ga-ngan-daya jarlu-nganju",
     "english": "Subj T what Pres it / me  bite  ear  my"}
@@ -5428,9 +5714,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5438,6 +5724,7 @@
     "id": 289,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "dibdirib-ji",
     "english": "sores    having"}
@@ -5447,9 +5734,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5457,6 +5744,7 @@
     "id": 290,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "nginyjag wurla-ja",
     "english": "can't          they/it  drink"}
@@ -5466,9 +5754,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5476,6 +5764,7 @@
     "id": 291,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ber� ja-wurla-ma",
     "english": "cut  Pres they/it"}
@@ -5485,9 +5774,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5495,6 +5784,7 @@
     "id": 292,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ngugu jaw ja-wurla-bu-n",
     "english": "water   pour Pres they/it"}
@@ -5504,9 +5794,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5514,6 +5804,7 @@
     "id": 293,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-wurla-bardnama na-barlarlbarlarl-an",
     "english": "Pres they/it     put                 billy              in"}
@@ -5523,9 +5814,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5533,6 +5824,7 @@
     "id": 294,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wub ja-wurla-war na-damayi-an",
     "english": "throw on fire Pres they/it fire     on"}
@@ -5542,9 +5834,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5552,6 +5844,7 @@
     "id": 295,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wirriyn wurla-bu-ni            nga-jirray   marnday  ngugu",
     "english": "stirred   they    was (Past Cont) I/it  ate (Past)  sweet water"}
@@ -5561,9 +5854,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5571,6 +5864,7 @@
     "id": 296,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "wurla-ga-ni gayarra hospital-lama",
     "english": "they/him   take was (Past Cont)  west hospital  to"}
@@ -5580,9 +5874,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5590,6 +5884,7 @@
     "id": 297,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-wurla-ba�ma dim-burnya ja-wurla-nidba",
     "english": "Pres they/it  wash  sore your  Pres they   have"}
@@ -5599,9 +5894,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5609,6 +5904,7 @@
     "id": 298,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-wurla-bu-yi-n,",
     "english": "Pres they hit self"}
@@ -5618,9 +5914,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5628,6 +5924,7 @@
     "id": 299,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "ja-wurla-bu-yi-n, na-jaginanggu?",
     "english": "Pres they hit self    why"}
@@ -5637,9 +5934,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5647,6 +5944,7 @@
     "id": 300,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "gurlag",
     "english": null}
@@ -5656,9 +5954,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Bush Medicine"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Bush Medicine"
+		},
     "contenttags": null,
     "functiontags": "Saying what action you are going to take"
   },
@@ -5666,6 +5964,7 @@
     "id": 301,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "marrb-nama",
     "english": "tie up"}
@@ -5675,9 +5974,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   },
@@ -5685,6 +5984,7 @@
     "id": 302,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "will give he/you should you go  camp  to      should you sleep",
     "english": "marrb-nama"}
@@ -5694,9 +5994,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   },
@@ -5704,6 +6004,7 @@
     "id": 303,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "also   Pres  I      sick      with  same  my  with old                       my        also   with  new",
     "english": "mirn-nganju ga-nga-murrma"}
@@ -5713,9 +6014,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5723,6 +6024,7 @@
     "id": 304,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "a-nyan-wu-n a-nya-yag barnam-garlama a-nya-yu",
     "english": "will give he/you should you go  camp  to      should you sleep"}
@@ -5732,9 +6034,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   },
@@ -5742,6 +6044,7 @@
     "id": 305,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-damayi na-ni",
     "english": "with fire     burn was (Past Cont) (he)"}
@@ -5751,9 +6054,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving explanation for sickness"
   },
@@ -5761,6 +6064,7 @@
     "id": 306,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "garlugu mulugmulug na-na jamgarr-ngayawu",
     "english": "poor thing yesterday    burn Past (he/it)  foot     her"}
@@ -5770,9 +6074,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5780,6 +6084,7 @@
     "id": 307,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mulugmulug na-na jamgarr-ngayawu",
     "english": "yesterday     burn Past (he/it) foot        her"}
@@ -5789,9 +6094,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5799,6 +6104,7 @@
     "id": 308,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mulugmulug ngadburr-ngayawu na-na ja-nidba dib-ngayawu",
     "english": "yesterday       and    her burn Past (he/it) Pres (he/it) has sore  her"}
@@ -5808,9 +6114,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5818,6 +6124,7 @@
     "id": 309,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "mulugmulug na-na   lany-ngayawu",
     "english": "yesterday     burn Past (he/it) leg    her"}
@@ -5827,9 +6134,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5837,6 +6144,7 @@
     "id": 310,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "na-mirnurr ga-nyan-bu-n",
     "english": "Subj T cold  Pres it / you hit"}
@@ -5846,9 +6154,9 @@
     "speaker": "Sheila Conway",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Saying What's wrong"
   },
@@ -5856,6 +6164,7 @@
     "id": 311,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "jijga-ba  a-ngan-wu-n mawuj",
     "english": "little Emph could you/me give food"}
@@ -5865,9 +6174,9 @@
     "speaker": null,
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   },
@@ -5875,6 +6184,7 @@
     "id": 312,
     "context": null,
     "headword": null,
+	"phrases":
 		[
     {"Mangarrayi": "bamburriyi ga-nya-jabulma",
     "english": "better         Pres  you  smoke"}
@@ -5884,9 +6194,9 @@
     "speaker": "Amy Dirn.gayg",
     "category" : 
 		{
-			1:  "HEALTH AND BODY CARE",
-    		2: "Sickness"
-		}
+			"1":  "HEALTH AND BODY CARE",
+    		"2": "Sickness"
+		},
     "contenttags": null,
     "functiontags": "Giving advice"
   }
