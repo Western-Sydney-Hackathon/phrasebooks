@@ -1,0 +1,5894 @@
+{ "entries"; 
+[
+  {
+    "id": 1,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-ngi-yag jorroy-wu",
+    "english": "Let's you & I go bush medicine for"}
+		],
+    "translation": "Let's (you and I) go for  bush medicine",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 2,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jorroy ngirla-minyi",
+    "english": "bush medicine they & I were getting"}
+		],
+    "translation": "we were getting jorroy",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 3,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-ngirla-yag",
+    "english": "maybe you mob & I go"}
+		],
+    "translation": "Let's (they & I) go",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 4,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-ngirla-mi",
+    "english": "maybe you mob & I get"}
+		],
+    "translation": "Let's (they & I) get",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 5,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-ngirla-yag a-ngirla-mi",
+    "english": "could you mob & I go and maybe you mob & I get"}
+		],
+    "translation": "Let's (they & I) go and get",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 6,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nanangganawa ga-ngirla-mi",
+    "english": "then   Pres   they & I get"}
+		],
+    "translation": "then we get it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 7,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "warling nyan-mi",
+    "english": "darling  I / you get"}
+		],
+    "translation": "Darling I'll get you ...",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 8,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nya-mi-bayi narra jorroy",
+    "english": "Pres you/it  get (emph) that bush medicine"}
+		],
+    "translation": "you're getting that bush medicine",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 9,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jorroy nya-mi",
+    "english": "bush medicine you/it get"}
+		],
+    "translation": "you get some bush medicine",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 10,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra-ba jorroy nya-mi",
+    "english": "that (emph) bush medicine you get"}
+		],
+    "translation": "you get that bush medicine",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 11,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nya-mi",
+    "english": "you /it get"}
+		],
+    "translation": "You get it",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 12,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wurr-yarr'mari",
+    "english": "those two/it  were taking off"}
+		],
+    "translation": "those two were taking them off (leaves)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 13,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Jagina niwa?",
+    "english": "what    this"}
+		],
+    "translation": "What's this?",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 14,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mob ga-nya-ma",
+    "english": "cut   Pres  you/it"}
+		],
+    "translation": "you break it off",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 15,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mod ga-nya-mi",
+    "english": "cut    Pres  you/it"}
+		],
+    "translation": "you cut it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 16,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mob ja-wurla-ma ga-ngirla-ga-n",
+    "english": "break  Pres they/it Pres They & I take"}
+		],
+    "translation": "They break it and we take it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 17,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ber' ga-nya-ma",
+    "english": "cut   Pres you"}
+		],
+    "translation": "you cut it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 18,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jurrgjurrg-nawu ja-yirr'ma na-dim-gu",
+    "english": "leah    its           Pres  take off for sore"}
+		],
+    "translation": "she takes off the leaves for sores",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 19,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra jurrgjurrg",
+    "english": "that  leaf"}
+		],
+    "translation": "they are leaves",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 20,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gurlag",
+    "english": null}
+		],
+    "translation": "ti tree",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 21,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gilirr",
+    "english": null}
+		],
+    "translation": "gutta percha",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 22,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "darlugdarlug",
+    "english": null}
+		],
+    "translation": "mistletoe",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 23,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra-ba gergerg",
+    "english": "that Emph  teabag plant"}
+		],
+    "translation": "the tea-bag plant Vix",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 24,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-jorroy-wu",
+    "english": "for bush medicine"}
+		],
+    "translation": "for bush medicine",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Going for bush medicine"
+  },
+  {
+    "id": 25,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nya-wirrijma",
+    "english": "Pres you/it scrape"}
+		],
+    "translation": "you scrape it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 26,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-nya-wirrijma-wu",
+    "english": "should  you/it  scrape"}
+		],
+    "translation": "you will scrape  it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 27,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wirrijma nyanggi",
+    "english": "scrape     you"}
+		],
+    "translation": "scrape it off you",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 28,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "lorlb ga-nya-mi dab-nawu",
+    "english": "skin im  Pres you/it bark his"}
+		],
+    "translation": "you take off the bark (skin im up)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 29,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wilg ga-nya-bu-n",
+    "english": "scrape  Pres you/it"}
+		],
+    "translation": "you scrape it",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 30,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jurrgjurrg mayawa ja-bardnama",
+    "english": "leaf   now          Pres (he or she) put"}
+		],
+    "translation": "now she is putting in the leaves",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 31,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jurrgjurrg-nawu",
+    "english": "leaf             it's"}
+		],
+    "translation": "its leaves",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 32,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra jurrgjurrg",
+    "english": "that        leaf"}
+		],
+    "translation": "they are leaves",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 33,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Yirr' wari wardij jurrgjurrg",
+    "english": "was throwing  also leaves"}
+		],
+    "translation": "she was throwing more leaves (into the container)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 34,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra ngugu mi",
+    "english": "that water get"}
+		],
+    "translation": "get that water",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 35,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-mi wardij ngugu",
+    "english": "Pres (she) she is also getting water"}
+		],
+    "translation": "she's getting more water",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 36,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ya-bardnama-wu ngugu",
+    "english": "should put  in     water"}
+		],
+    "translation": "You should put water in it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 37,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-barrigon-gan nya-bardnama",
+    "english": "in billy     you/it put"}
+		],
+    "translation": "you put it in the billy",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 38,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "barlarlbarlarl a-nya-bardnama",
+    "english": "billy            maybe  you  put"}
+		],
+    "translation": "you put it in the container (billy)",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 39,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-nya-bardnama jalugmayin-gan",
+    "english": "maybe   you put     cold   in"}
+		],
+    "translation": "you put it in cold water",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 40,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-nya-bardnama milgmilg  a-nya-ma-wu a-nya-ba'ma",
+    "english": "should you/it put cold      will be you         can you wash"}
+		],
+    "translation": "you should put it when you are cold",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 41,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "should you/it put cold      will be you         can you wash",
+    "english": "ja-bardnama warlayjnyin-gan"}
+		],
+    "translation": "have a wash in it",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 42,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-bardnama warlayjnyin-gan",
+    "english": "Pres (he/it) put     shade   in"}
+		],
+    "translation": "he puts it in the shade",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 43,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-nya-mi wuray",
+    "english": "maybe you/it  get  later"}
+		],
+    "translation": "get it later",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 44,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bardnama damayi-yan",
+    "english": "put             fire        on"}
+		],
+    "translation": "put it on the fire",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 45,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "damayi-an ja-na-n",
+    "english": "fire   on    Pres (he/it) burn"}
+		],
+    "translation": "it is burning (cooking) on the fire",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 46,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "babnamdag damayi-yan",
+    "english": null}
+		],
+    "translation": "he put it on the fire",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 47,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "barrigon-gan",
+    "english": "cup       in"}
+		],
+    "translation": "in the cup",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 48,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "damayi-an a-nya-bardnama",
+    "english": "fire     on     maybe  you/it put"}
+		],
+    "translation": "put it on the fire",
+    "ref": "Sheila_bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 49,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-nya-naya-wu na-damayi-an",
+    "english": "should you/it cook on the fire"}
+		],
+    "translation": "you should cook it on the fire",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 50,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garrag-wa nya-bardnama",
+    "english": "big mob the you/it put"}
+		],
+    "translation": "put lots of it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 51,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wuray a-nya-mi",
+    "english": "should you/it get"}
+		],
+    "translation": "later you should get it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 52,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-wurla-bardnama mamuny-gan",
+    "english": "Pres  they/it  put       food        in"}
+		],
+    "translation": "They put it in the food in the coolamon",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 53,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ya-ni",
+    "english": "can (it) rest"}
+		],
+    "translation": "it can sit (on the fire)",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 54,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wuray jalug ya-ma-wu",
+    "english": "later  gets cool  will"}
+		],
+    "translation": "later when it is cool",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 55,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jalug ja-ma",
+    "english": "is cold Pres  (it)"}
+		],
+    "translation": "when it's cold",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 56,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jalug ya-mayn",
+    "english": "is cold   might be (it) Past"}
+		],
+    "translation": "when it was cold",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 57,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-milgmilg ja-ni",
+    "english": "with cold Pres (it) is"}
+		],
+    "translation": "(when) it's cold",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 58,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ber� ja-wurla-ma",
+    "english": "cut  Pres they/it"}
+		],
+    "translation": "They cut it",
+    "ref": "MR2-014-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 59,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wub ja-wurla-war na-damayi-an",
+    "english": "throw on fire Pres they/it fire     on"}
+		],
+    "translation": "they put it on the fire",
+    "ref": "MR2-014-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 60,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-wurla-bardnama na-barlarlbarlarl-an",
+    "english": "Pres they/it     put                 billy              in"}
+		],
+    "translation": "they put it in a billy",
+    "ref": "MR2-014-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 61,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jaw bu",
+    "english": "pour"}
+		],
+    "translation": "pour it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 62,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jaw ja-bu-n ngugu",
+    "english": "pour  Pres (he/it) water"}
+		],
+    "translation": "he pours water",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 63,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jaw ja-bu-n",
+    "english": "pour  Pres (he/it)"}
+		],
+    "translation": "he pours it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 64,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "lurlurl'-wi ja-ga-n",
+    "english": "pile up without Pres he/it take"}
+		],
+    "translation": "she doesn't pile it up (ie pours slowly)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 65,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "larla-yag",
+    "english": "dry out  Past"}
+		],
+    "translation": "dried out",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 66,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "larla-yag 2",
+    "english": "dry out  Past"}
+		],
+    "translation": "dried out",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 67,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mamayanggan",
+    "english": "old"}
+		],
+    "translation": "old (used for dried ones)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 68,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mangaya ja-mi na-yijarr",
+    "english": "maybe  Pres (it)gets    for good"}
+		],
+    "translation": "maybe it gets good (It is ready?)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 69,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mayawa-ja",
+    "english": "now    emph"}
+		],
+    "translation": "that's it (its ready)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 70,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narriwa-ja",
+    "english": "that    emph"}
+		],
+    "translation": "that's it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Preparing bush medicine"
+  },
+  {
+    "id": 71,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nya-ba'ma_",
+    "english": "Pres you wash"}
+		],
+    "translation": "you are washing",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 72,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mangaya nya-ba'ma-wu",
+    "english": "maybe    you   wash   will"}
+		],
+    "translation": "Maybe you will  wash",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 73,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narriwa nya-mi nya-ba'ma",
+    "english": "that one you/it get  you  bogey"}
+		],
+    "translation": "you get that one and you wash",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 74,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nya-ba'ma",
+    "english": "you bogey"}
+		],
+    "translation": "you wash",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 75,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bordewg malam-nawu yaw' yaw' ngarla-bu-yi-n narriwa-ba",
+    "english": "bad          body   his    splash water we mob self Pres that  Emph"}
+		],
+    "translation": "When your body feels bad we splash water                        (with) that one",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 76,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mulugmulug nya-ba'mari?",
+    "english": "yesterday      you   were bogeying?"}
+		],
+    "translation": "Did you wash yesterday?",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 77,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mulugmulug",
+    "english": "yesterday"}
+		],
+    "translation": "yesterday",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 78,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nga-ba'mari",
+    "english": "I      was bogeying"}
+		],
+    "translation": "I had a wash",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 79,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yaw'yaw' nya-bu-yi-n",
+    "english": "splash water you/it  self Pres"}
+		],
+    "translation": "spalsh water on yourself",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 80,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yaw'yaw' a-nya-buyi-n",
+    "english": "splash water should you/it self"}
+		],
+    "translation": "splash water on yourself",
+    "ref": "bush medicine July18.mp3",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 81,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngugu nya-ja",
+    "english": "water   you/it  drink"}
+		],
+    "translation": "drink water",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 82,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra nya-ja",
+    "english": "that    you/it drink"}
+		],
+    "translation": "you drink that",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 83,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jagina ja-wu ngugu",
+    "english": "what   drink will (he/it) water"}
+		],
+    "translation": "what water will she drink ?",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 84,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "what   drink will (he/it) water",
+    "english": "jijga-ya a-nya-ja jalugma-wu"}
+		],
+    "translation": "where is the water that to drink",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 85,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jijga-ya a-nya-ja jalugma-wu",
+    "english": "little   maybe  you drink for cold"}
+		],
+    "translation": "Drink a little when it is cold",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 86,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-jijga",
+    "english": "for little"}
+		],
+    "translation": "a little bit",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 87,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngarla-wanggij ja-wa-n barrigod",
+    "english": "female Subj I child Pres (he/it) get cup"}
+		],
+    "translation": "that (girl) child is bringing a cup",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 88,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nya-mi nyanggi",
+    "english": "you/it get  you"}
+		],
+    "translation": "you, you get it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 89,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngorrgngorrg",
+    "english": "crunchy"}
+		],
+    "translation": "crunchy",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 90,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "marrb marrb nama na-wirla",
+    "english": "tie   tie                     with   vine"}
+		],
+    "translation": "tie it up with a bandage",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 91,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "marrb nama a-nya-ma-wu",
+    "english": "tie               should  you/it do"}
+		],
+    "translation": "you put a bandage on",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 92,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "marrb nama",
+    "english": null}
+		],
+    "translation": "bandage it up",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 93,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-birlbu ma ngangga",
+    "english": "strong   make  you/it"}
+		],
+    "translation": "it makes you stronger",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 94,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra mun",
+    "english": "that    all /only"}
+		],
+    "translation": "that's all",
+    "ref": "bush medicine_18 July_18",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 95,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jalug ga-nya-ma malam-ngangga",
+    "english": "is cold  Pres  you  body   your"}
+		],
+    "translation": "your body is cold (you are cold)",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 96,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jalugmayin narra-nawu     wurr-nani        nga-ba'mari",
+    "english": "cold           that  its       those two/it were burning I was bogeying"}
+		],
+    "translation": "When that was cold those two heated it    I was bogeying",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 97,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nya-ba'ma jalug nya-ma mangaya barlalaga",
+    "english": "you   bogey  is  cold  you   maybe  today"}
+		],
+    "translation": "you wash when you are cold maybe straight away",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 98,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mangaya bamburriyi nya-mi-wu",
+    "english": "maybe       better          you/it  get  will"}
+		],
+    "translation": "maybe better you take it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 99,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nya-mi-wu",
+    "english": "you/it get   will"}
+		],
+    "translation": "you should take it",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 100,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mangaya bobob nya-ma-wu nya-nan-gu malam-ngangga  narriwa a-nya-ba'ma",
+    "english": "maybe        hot   you         will be you burn body your  that  should you/it bogey"}
+		],
+    "translation": "Maybe you are hot and your body",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 101,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "maybe        hot   you         will be you burn body your  that  should you/it bogey",
+    "english": "na-dim-gu"}
+		],
+    "translation": "is burning up you bogey in that",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 102,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-dim-gu",
+    "english": "for sores"}
+		],
+    "translation": "for sores",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 103,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "niwa ngarla-bardnama ga-ngarla-nidba dib",
+    "english": "This we mob/it   put      Pres   we mob   have sore"}
+		],
+    "translation": "we put this on when we have sores",
+    "ref": "Sheila_Syrita_Friday 20 July",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH & BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Using Bush medicine"
+  },
+  {
+    "id": 104,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Na-jal",
+    "english": null}
+		],
+    "translation": "First Homestead (Warloch Ponds)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 105,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Na-jig",
+    "english": null}
+		],
+    "translation": "Second Homestead (Red Lily)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 106,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Garlyag",
+    "english": null}
+		],
+    "translation": "Warloch Ponds",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 107,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Bulula",
+    "english": null}
+		],
+    "translation": "The Jungle",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 108,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Ngarrmirn.gan",
+    "english": null}
+		],
+    "translation": "Red Lily",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 109,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Manyjurn.gan",
+    "english": null}
+		],
+    "translation": "2 Mile",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 110,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yarrayg galma wa-niyn",
+    "english": null}
+		],
+    "translation": "where the Yam got up (dreaming)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 111,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Guyanggan",
+    "english": null}
+		],
+    "translation": "Current Station",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 112,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Little Jembere",
+    "english": null}
+		],
+    "translation": null,
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 113,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Jembere",
+    "english": null}
+		],
+    "translation": "Old name for Community (Also refrred to as Duck Creek)",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 114,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Jilkminggan (Pron Jilkmirngan)",
+    "english": null}
+		],
+    "translation": "Current  Name for community",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 115,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngaya Jilkmirn.kan ka-nga-ni",
+    "english": null}
+		],
+    "translation": "I live in Jilkminggan",
+    "ref": "MR2-003-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 116,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Barlmarrag",
+    "english": null}
+		],
+    "translation": null,
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 117,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "barlmarang-garlama",
+    "english": null}
+		],
+    "translation": "to Barlmarrag",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 119,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Murrwale",
+    "english": null}
+		],
+    "translation": "The Crossing (also referred to as Wurlulu - running water ie rapids)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 120,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Naburl",
+    "english": null}
+		],
+    "translation": "Elsey Falls",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 121,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Gorrowan",
+    "english": null}
+		],
+    "translation": "Mataranka Falls",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 122,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Na-murrinyjayan",
+    "english": null}
+		],
+    "translation": "area of Eucalyptus trees on the bank",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 123,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Jarlmurrag",
+    "english": null}
+		],
+    "translation": "12 Mile",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 124,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Mularag",
+    "english": null}
+		],
+    "translation": null,
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 125,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Na-jig",
+    "english": null}
+		],
+    "translation": "Mataranka Homestead",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 126,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Gorran",
+    "english": null}
+		],
+    "translation": "Bitter Springs",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 127,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Siding",
+    "english": null}
+		],
+    "translation": "Old name for Mataranka as it used to be a railway siding",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 128,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Siding-gana",
+    "english": null}
+		],
+    "translation": "from Mataranka_",
+    "ref": "MR2-003-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 129,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Yumbugi",
+    "english": null}
+		],
+    "translation": "Donkey Flat",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 130,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Gulun",
+    "english": null}
+		],
+    "translation": "Long Reach",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Place"
+		}
+    "contenttags": null,
+    "functiontags": "names of places"
+  },
+  {
+    "id": 131,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "balayi ngugu",
+    "english": null}
+		],
+    "translation": "the big river",
+    "ref": "MR2-001-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 132,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "big      water",
+    "english": null}
+		],
+    "translation": null,
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 133,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dardardarl",
+    "english": null}
+		],
+    "translation": "plain",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 134,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "lurblurbminyi",
+    "english": null}
+		],
+    "translation": "clay pans",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 135,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jalwayi",
+    "english": null}
+		],
+    "translation": "mud, muddy place",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 136,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Ngajgan",
+    "english": null}
+		],
+    "translation": "bush",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 137,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "birn.gan",
+    "english": null}
+		],
+    "translation": "scrub (area on road out of community) CHECK",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 138,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "werdeng",
+    "english": null}
+		],
+    "translation": "desert country (in Yangman buyirrin)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 139,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngugu-wi",
+    "english": null}
+		],
+    "translation": "without water",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 140,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wurray",
+    "english": null}
+		],
+    "translation": "black soil country",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 141,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bundal",
+    "english": null}
+		],
+    "translation": "billabong",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 142,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngugu",
+    "english": null}
+		],
+    "translation": "water",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 143,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gurrungarran",
+    "english": null}
+		],
+    "translation": "salt water",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 144,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jadba",
+    "english": null}
+		],
+    "translation": "river",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 145,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "darrarra",
+    "english": null}
+		],
+    "translation": "creek (tributary)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 146,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wurlulu (wurlurlu)",
+    "english": null}
+		],
+    "translation": "running water (rapids)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Landscape"
+		}
+    "contenttags": null,
+    "functiontags": "describing the landscape"
+  },
+  {
+    "id": 147,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gayanja",
+    "english": null}
+		],
+    "translation": "East (Sun up)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 148,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "biya",
+    "english": null}
+		],
+    "translation": "down river (East)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 149,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gayarra",
+    "english": null}
+		],
+    "translation": "West (Sun go down)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 150,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gawarr",
+    "english": null}
+		],
+    "translation": "up river (West)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 151,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bujba",
+    "english": null}
+		],
+    "translation": "North",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 152,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngariman",
+    "english": null}
+		],
+    "translation": "South",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 153,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gal' ma ja-ni na-ganywar-bayi gany(a)jang-gana",
+    "english": "climb up  Pres (he)   Subj  sun   Emphasis east        from"}
+		],
+    "translation": "the sun rises in the east",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 154,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gayanjang-gana gal'ma ja-ni na-ganywarr-bayi",
+    "english": "east        from     climb   Pres (he) Subj   sun     Emphasis"}
+		],
+    "translation": "the sun rises in the east",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 155,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-ganywarr gal'ma ja-ni nangganwa gayanja",
+    "english": "Subj   sun     climb  Pres (he)   there          east"}
+		],
+    "translation": "the sun comes up there  in the east",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Cardinal points"
+  },
+  {
+    "id": 156,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Jana-ba wurlulu?",
+    "english": "where Emphasis running water (rapids)"}
+		],
+    "translation": "Where is the crossing?",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Asking where something is"
+  },
+  {
+    "id": 157,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Jananggan-ba ja-wurla-mi mawuj",
+    "english": "where Emphasis Pres they/it get food"}
+		],
+    "translation": "Where do they get tucker?",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "Asking where something is"
+  },
+  {
+    "id": 158,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra-jaga ngariman",
+    "english": "there just    south"}
+		],
+    "translation": "that is just there to the South",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 159,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narriwa-jaga ngariman yag",
+    "english": "there just    south   go"}
+		],
+    "translation": "go just there to the South",
+    "ref": "MR2-003-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 160,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garri-jaga gayarra gawarr",
+    "english": "over there just  west  upriver"}
+		],
+    "translation": "Just over there, west, upriver",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 161,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garri yarri ngarla-yag",
+    "english": "here  there   we     go"}
+		],
+    "translation": "we go here and there",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 162,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garri-wa ga-nga-yag",
+    "english": "over there  Pres I go"}
+		],
+    "translation": "I go over that way",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 163,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nawu-wa",
+    "english": "this side"}
+		],
+    "translation": "this side of the river",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 164,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ni-jaga gawarr",
+    "english": "there just upriver"}
+		],
+    "translation": "just there upriver",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 165,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ni-jaga gayanja",
+    "english": "there just east"}
+		],
+    "translation": "just there East",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 166,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ni-yarri-jaga wurla-yaj wurla-yinyi garriwa",
+    "english": "there somewhere just they went they  were going  over there"}
+		],
+    "translation": "they went somewhere, they were going there",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 167,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "niwa-jaga galiya-wi",
+    "english": "here just  far   without"}
+		],
+    "translation": "just here not far",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 168,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "galiya",
+    "english": "far"}
+		],
+    "translation": "far away",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 169,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mirlirriwa",
+    "english": "close by"}
+		],
+    "translation": "close by",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Directions"
+		}
+    "contenttags": null,
+    "functiontags": "saying where something is"
+  },
+  {
+    "id": 170,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-ganywarr",
+    "english": "with   sun"}
+		],
+    "translation": "It's sunny",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 171,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mirlirl ja-ma    na-ganywarr",
+    "english": "rise    Pres (he)  Subject sun"}
+		],
+    "translation": "the sun rises",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 172,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-jab ja-ninga-n",
+    "english": "Subj  wind  Pres (he) come"}
+		],
+    "translation": "It's windy",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 173,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gardi na-jab",
+    "english": "look for  wind"}
+		],
+    "translation": "look at (as in wow!) the wind",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 174,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jilg ja-wayi-n garnan",
+    "english": "fall Pres (it)      rain"}
+		],
+    "translation": "it's raining (the rain is falling)",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 175,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-jijga jilg ja-wayi-n garnan",
+    "english": "for little fall   Pres (it)   rain"}
+		],
+    "translation": "it's raining a little",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 176,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dayi na-balayi jilg wayi-n",
+    "english": "not   for big      fall      Pres"}
+		],
+    "translation": "It's not raining a lot",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 177,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "miyarr-awu",
+    "english": "cloud   his"}
+		],
+    "translation": "It's cloudy",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 178,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-miyarr-awu ja-ninga-n jard ja-bu-n ganywarr",
+    "english": "Subj cloud his   Pres come shut off  Pres (it)  sun"}
+		],
+    "translation": "when the clouds arrive they cover the sun",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 179,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "budij ja-bu-n na-jab",
+    "english": "swirl   Pres (He) Subj wind"}
+		],
+    "translation": "the wind swirls",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 180,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "larrg ga-ngan-daya",
+    "english": "bite   Pres it/me"}
+		],
+    "translation": "It's cold / I'm cold",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 181,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "milgmilg larrg ga-ngan-daya",
+    "english": "cold            bite  Pres it/me"}
+		],
+    "translation": "It's cold / I'm cold",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 182,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bobob ga-nga-ma",
+    "english": "am hot  Pres  I"}
+		],
+    "translation": "It's hot / I'm hot",
+    "ref": "MR2_002_B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "saying what the weather is like"
+  },
+  {
+    "id": 183,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dayi na-duy-an ga-ngirla-ni",
+    "english": "not     in  hole   Pres  I & them  sit"}
+		],
+    "translation": "we don't stay at home",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 184,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dayi warawad ngirla-yag na-balayi na-garnan",
+    "english": "not wallk around  I & them in  big    in  rain"}
+		],
+    "translation": "we can't go walkabout in the heavy rain",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 185,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-ngan-na-n",
+    "english": "Pres it/me    burn"}
+		],
+    "translation": "It is burning me (the sun)",
+    "ref": "Sheila _Gina_3_5_17_STE-006_01",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 186,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-ni nanwa ganywarr",
+    "english": "Pres I  sit   here     the sun"}
+		],
+    "translation": "I'm sitting here in the sun",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 187,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ganywarr-wu",
+    "english": "sun           for"}
+		],
+    "translation": "in the sun",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 188,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "larrg ngan-darlag lurlurr ga-nga-yag na-duy-an",
+    "english": "bit (Past)  it/me     into    Pres I go in hole"}
+		],
+    "translation": "When I was cold I go inside",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 189,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-ganywarr ga-ngan-na-n ga-nga-yag na-warlayjnyin-garlama a-nga-ni",
+    "english": "in     sun       Pres he/me burn Pres I go towards   shade             might I sit"}
+		],
+    "translation": "When the sun is burning me,",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 190,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "in     sun       Pres he/me burn Pres I go towards   shade             might I sit",
+    "english": "warlayjnyin"}
+		],
+    "translation": "I might sit in the shade",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 191,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "warlayjnyin",
+    "english": "shade"}
+		],
+    "translation": "shade",
+    "ref": "MR2-003-A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 192,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "milgmilg",
+    "english": "shade"}
+		],
+    "translation": "(also used for bough shade and hat)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what you doing in certain weather"
+  },
+  {
+    "id": 193,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "milgmilg",
+    "english": "cold"}
+		],
+    "translation": "cold season",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Seasons"
+  },
+  {
+    "id": 194,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-milgmilng-gu",
+    "english": "for  cold"}
+		],
+    "translation": "in the cold season",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Seasons"
+  },
+  {
+    "id": 195,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ganywarr",
+    "english": "sun"}
+		],
+    "translation": "hot season",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Seasons"
+  },
+  {
+    "id": 196,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-ganywarr-wu",
+    "english": "for sun"}
+		],
+    "translation": "in the hot season",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Seasons"
+  },
+  {
+    "id": 197,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garnan",
+    "english": "rain"}
+		],
+    "translation": "rainy season",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Seasons"
+  },
+  {
+    "id": 198,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-garnan-gu",
+    "english": "for rain"}
+		],
+    "translation": "in the rainy season",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "Country Place",
+    		2: "Weather"
+		}
+    "contenttags": null,
+    "functiontags": "Seasons"
+  },
+  {
+    "id": 200,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra'narra ga-nga-ba'ma",
+    "english": "every day   Pres I   wash"}
+		],
+    "translation": "Every day I have a wash",
+    "ref": "MR2-003-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Body Parts"
+		}
+    "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
+    "functiontags": null
+  },
+  {
+    "id": 201,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-warlagwarlagbu-n",
+    "english": "Pres I   wash"}
+		],
+    "translation": "I'm having a wash",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Body Parts"
+		}
+    "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
+    "functiontags": null
+  },
+  {
+    "id": 202,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wurrg a-nga-bu-n-gu ngadburr-nganju",
+    "english": "wash  will I                  hand        my"}
+		],
+    "translation": "I will wash my hands.",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Body Parts"
+		}
+    "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
+    "functiontags": null
+  },
+  {
+    "id": 203,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gulyugulyu ga-nga-bu-yi-n",
+    "english": "clean teeth  Pres I        self"}
+		],
+    "translation": "I am cleaning my teeth.",
+    "ref": "MR2-003-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Body Parts"
+		}
+    "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
+    "functiontags": null
+  },
+  {
+    "id": 204,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gulyugulyu a-nga-bu-yi-n-gu",
+    "english": "clean teeth Future I      self"}
+		],
+    "translation": "I am going to clean my teeth.",
+    "ref": "MR2-003-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Body Parts"
+		}
+    "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
+    "functiontags": null
+  },
+  {
+    "id": 205,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "narra'narra yijarr ga-nga-mi-nyjiyi-n",
+    "english": "every day   good   Pres  I   get self"}
+		],
+    "translation": "Every day I make myself look good. (get myself ready)",
+    "ref": "MR2-003-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Body Parts"
+		}
+    "contenttags": "Bodily Functions\", \"Actions - Body Movement\", \"Daily Body Care\", \"Daily Life\", \"Daily Routines",
+    "functiontags": null
+  },
+  {
+    "id": 206,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "milgmilg larrg ga-ngan-daya",
+    "english": "cold         bite  Pres it / me"}
+		],
+    "translation": "I'm cold (the cold is biting me)",
+    "ref": "MR2-003-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "States"
+		}
+    "contenttags": null,
+    "functiontags": null
+  },
+  {
+    "id": 207,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bobob ga-nga-ma",
+    "english": "feel hot Pres I"}
+		],
+    "translation": "I'm hot",
+    "ref": "MR2-002-B",
+    "speaker": "amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "States"
+		}
+    "contenttags": null,
+    "functiontags": null
+  },
+  {
+    "id": 208,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wolorr ga-nga-ma",
+    "english": "feel hungry Pres I"}
+		],
+    "translation": "I'm hungry",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "States"
+		}
+    "contenttags": null,
+    "functiontags": null
+  },
+  {
+    "id": 209,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wolorr ga-nga-ma durdurla",
+    "english": "feel hungry Pres I     properly"}
+		],
+    "translation": "I'm really hungry",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "States"
+		}
+    "contenttags": null,
+    "functiontags": null
+  },
+  {
+    "id": 210,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wolorr ga-nga-ma durdurla",
+    "english": "feel hungry Pres I     properly"}
+		],
+    "translation": "I'm really hungry (sound of voice on durdurla makes it strong)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "States"
+		}
+    "contenttags": null,
+    "functiontags": null
+  },
+  {
+    "id": 211,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dayi worlorr ga-nga-ma durdurla",
+    "english": "not   feel hungry Pres I   properly"}
+		],
+    "translation": "I'm not really hungry",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "States"
+		}
+    "contenttags": null,
+    "functiontags": null
+  },
+  {
+    "id": 212,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "Jananggari-ba ga-nya-murrma?",
+    "english": "what?      main word  Pres you sick"}
+		],
+    "translation": "What's wrong with you?",
+    "ref": "Mang Stories_Merlan_13 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Asking what's wrong"
+  },
+  {
+    "id": 213,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nya-murrma miliyn-ngangga?",
+    "english": "Pres you sore     nose    your"}
+		],
+    "translation": "Have you got a sore nose?",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Asking what's wrong"
+  },
+  {
+    "id": 214,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngadburr-angga mob nya-mayn?",
+    "english": "hand         your      break   you"}
+		],
+    "translation": "You broke your hand? / Did you break your hand?",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Asking what's wrong"
+  },
+  {
+    "id": 215,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mulugmulug-wa miliyn-ngangga mob nya-mayn?",
+    "english": "yesterday  Emph  nose     your     broke (Past)  you/it"}
+		],
+    "translation": "Did you break your nose yesterday?",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Asking what's wrong"
+  },
+  {
+    "id": 216,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-murrma",
+    "english": "Pres I sick"}
+		],
+    "translation": "I'm sick  / I feel sick",
+    "ref": "Mang Stories_Merlan_20  MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 217,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dara-nganju ga-nga-murrma",
+    "english": "stomach my  Pres I  sore"}
+		],
+    "translation": "I have a sore stomach / stomach ache.",
+    "ref": "Mang Stories_Merlan_13 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 218,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-murrma dara-nganju",
+    "english": "Pres I     sore    stomach my"}
+		],
+    "translation": "I have a sore stomach / stomach ache.",
+    "ref": "Mang Stories_Merlan_20 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 219,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bab-nganju lirlij nga-ma",
+    "english": null}
+		],
+    "translation": "My head hurts",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 220,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-balayi  na-muj",
+    "english": "Subj T big  Subj T native bee"}
+		],
+    "translation": "A big native bee (is doing something)          A lot of native bees (are doing something)",
+    "ref": "Mang Stories_Merlan_17 MR2-015-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 221,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-momomin ga-ngan-daya",
+    "english": "Subj T March fly  Pres it / me  bite"}
+		],
+    "translation": "A March fly is biting me / March flies are biting me",
+    "ref": "Mang Stories_Merlan_17 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 222,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-muj ngan-darlag",
+    "english": "Subj T native bee  it / me  bit (Past)"}
+		],
+    "translation": "a native bee bit me / Native bees are biting me",
+    "ref": "Mang Stories_Merlan_17 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 223,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngan-larrjmayn na-landi",
+    "english": "it/me  scratched (Past) Subject T tree"}
+		],
+    "translation": "a tree branch scratched me",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 224,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wuray jard a-nya-jaygin-gu wurng-garlama",
+    "english": "later    go back should you     work    to"}
+		],
+    "translation": "After that you should go back to work",
+    "ref": "Mang Stories_Merlan_22 MR2-015-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 225,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mayawa yalala nga-mayn",
+    "english": "now       was happy (Past)  I"}
+		],
+    "translation": "afterwards I was happy",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 226,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "head my     with forehead my  whole lot    Pres  I  burn",
+    "english": "ga-nga-gar�garma"}
+		],
+    "translation": "burning.",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 227,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yag mayawa gurrwaran-garlama medicine-gu",
+    "english": "go      now         doctor        to           medicine  for"}
+		],
+    "translation": "Go now to the doctor for medicine",
+    "ref": "Mang Stories_Merlan_22 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  },
+  {
+    "id": 228,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gilirr",
+    "english": null}
+		],
+    "translation": "gutta percha",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 229,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-gurrajnyin lurlurl� bu-yag",
+    "english": "with blood         pile up     self (Past)  (it)"}
+		],
+    "translation": "He /she bruised up",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 230,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jarrg buyag",
+    "english": "cut himself / herself (Past)"}
+		],
+    "translation": "He cut himself / She cut herself",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 231,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "warlarrwarlarrmin ja-nidba",
+    "english": "diarrhea                Pres (he) has"}
+		],
+    "translation": "He/she has diarrhea",
+    "ref": "Mang Stories_Merlan_18 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 232,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jarrij many jarrg bu-yag",
+    "english": "slipped (Past) (he)    cut   self (Past)"}
+		],
+    "translation": "He/she slipped and cut himself/herself",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 233,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jarrg bu-ni juya",
+    "english": "cut     was (Past Cont) (he)  meat"}
+		],
+    "translation": "He/she was cutting meat",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 234,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-murrma, jard la-judma marri-yu",
+    "english": "Pres sick     send back  you mob/him  let  sleep"}
+		],
+    "translation": "He's/she's sick send him/her home to sleep",
+    "ref": "MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  },
+  {
+    "id": 235,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jijga-bana yalala nga-ma malam-nganju",
+    "english": "little   one    am happy I        body    my"}
+		],
+    "translation": "I am a little bit happy",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 236,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yalala ga-nga-ma",
+    "english": "am happy Pres I"}
+		],
+    "translation": "I am happy",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 237,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yulgmirn nga-jirray  marnday",
+    "english": "sugar        I/it      ate (Past) sweet"}
+		],
+    "translation": "I ate sweet sugar",
+    "ref": "Mang Stories_Merlan_21  MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 238,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "layn-nganju mob nga-mayn",
+    "english": "leg    my     broke Past  I/it"}
+		],
+    "translation": "I broke my leg",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 239,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "layn-nganju mob nga-mayn   (slowed down )",
+    "english": "leg    my     broke Past  I/it"}
+		],
+    "translation": "I broke my leg",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 240,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nginyjag nga-ni na-school-an",
+    "english": "can't          I     be    school  at"}
+		],
+    "translation": "I can't be at school / I shouldn't be at school",
+    "ref": "Mang Stories_Merlan_20  MR2-015-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 241,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jarrg nga-buyag ngadburr-nganju",
+    "english": "cut myself (Past) I     hand  my"}
+		],
+    "translation": "I cut my hand",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 242,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dayi nga-yura-b",
+    "english": "not   I       not sleep Past"}
+		],
+    "translation": "I didn't sleep",
+    "ref": "Mang Stories_Merlan_19 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 243,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dayi nga-yura-b",
+    "english": "not   I       not sleep Past"}
+		],
+    "translation": "I didn't sleep",
+    "ref": "Mang Stories_Merlan_19 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 244,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-mirnurr ga-ngan-bu-n na-barlanggan",
+    "english": "Subj T cold  Pres it / me hit  Subj T new"}
+		],
+    "translation": "I have a new cold (a cold hit me)",
+    "ref": "Mang Stories_Merlan_15 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 245,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jijga mawuj a-nya-ja",
+    "english": "little   food  might you/it eat"}
+		],
+    "translation": "I might eat a little something",
+    "ref": "MR2-003-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 246,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jarrij nga-mayn",
+    "english": "slipped (Past)  I"}
+		],
+    "translation": "I slipped",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 247,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-murrma jamgarr-nganju nga-manbu-ni",
+    "english": "Pres I    sore        foot        my       I        run     was (past Cont)"}
+		],
+    "translation": "I was running now my foot hurts",
+    "ref": "MR2-005_A 40:36",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 248,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "galiya nga-yinyi",
+    "english": "long way  I  walked (Past)"}
+		],
+    "translation": "I went (walked) a long way",
+    "ref": "Mang Stories_Merlan_16 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 249,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jijga mawuj a-nga-ja",
+    "english": "little  food  will  I/it eat"}
+		],
+    "translation": "I will eat a little something to eat",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  },
+  {
+    "id": 250,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngugu a-nga-ja-wu       yaw ga-nga-ni",
+    "english": "water  will (Future) I/it drink  rest Pres I"}
+		],
+    "translation": "I will have a drink and have a rest",
+    "ref": "MR2-005-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 251,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-nga-wurrbarjin-gu    a-nga-ninga-n",
+    "english": "will  I get better               might I come"}
+		],
+    "translation": "I'll come back when I feel better.",
+    "ref": "Mang Stories_Merlan_14 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 252,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-gar�garma",
+    "english": "Pres I    cough"}
+		],
+    "translation": "I'm coughing",
+    "ref": "Mang Stories_Merlan_15 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 253,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jard ga-nga-jaygin barnam-garlama",
+    "english": "go back Pres I           camp   to"}
+		],
+    "translation": "I'm going back to camp",
+    "ref": "Mang Stories_Merlan_20  MR2-015-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 254,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jard ga-nga-jaygi-n mamaya ga-nga-yu",
+    "english": "go back Pres I            first       Pres I sleep"}
+		],
+    "translation": "I'm going back to camp first to sleep",
+    "ref": "Mang Stories_Merlan_14 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 255,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gurrwaran-garlama ga-nga-yag",
+    "english": "doctor             to       Pres I   go"}
+		],
+    "translation": "I'm going to the doctor",
+    "ref": "Mang Stories_Merlan_19 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 256,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yaw ga-nga-ni",
+    "english": "rest Pres I"}
+		],
+    "translation": "I'm having a rest",
+    "ref": "MR2-005-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 257,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngadburr-nganju ga-nga-larrjmi-nyjiyi-n",
+    "english": "hand          my      Pres  I/it     scratch self"}
+		],
+    "translation": "I'm scratching my hand",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 258,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-larrjmi-nyjiyi-n lany-nganju",
+    "english": "Pres I/it scratch    self        leg     my"}
+		],
+    "translation": "I'm scratching my leg",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 259,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "miliyn-nganju ga-nga-larrjmi-nyjiyi-n",
+    "english": "nose    my      Pres  I    scratch self"}
+		],
+    "translation": "I'm scratching my nose",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 260,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "miliyn-nganju ga-nga larrjmi-nyjiyi-n",
+    "english": "nose     my     Pres  I/it    scratch   self"}
+		],
+    "translation": "I'm scratching my nose",
+    "ref": "MR2-003-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 261,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wardij ga-nga-murrma na-marnej-nganju na-mamayanggan-nganju wardij na-barlanggan",
+    "english": "also   Pres  I      sick      with  same  my  with old                       my        also   with  new"}
+		],
+    "translation": "I'm sick again with the same old thing as",
+    "ref": "Mang Stories_Merlan_16 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 262,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-girinyin barlalaga",
+    "english": "Pres I      tired      today"}
+		],
+    "translation": "I'm tired today",
+    "ref": "MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 263,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-na lany-ngayawu",
+    "english": "burn Past  (it) leg her"}
+		],
+    "translation": "it burnt her leg (eg fire)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 264,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jarrg ngan-bu-b ngadburr-nganju",
+    "english": "cut    It /me     Past  hand   my"}
+		],
+    "translation": "It cut my hand",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 265,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "morrmorr ya-ni",
+    "english": "is dark     will (it)"}
+		],
+    "translation": "It is dark (bruise)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 266,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "morrmorr ja-ma",
+    "english": "get dark   Pres (it)"}
+		],
+    "translation": "It is getting dark (bruise) / it is darkening up",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 267,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngan-larrjmayn",
+    "english": "it/me  scratched (Past)"}
+		],
+    "translation": "It scratched me",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 268,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-ngan-galgma jamgarr-nganju",
+    "english": "Pres it / me  go into foot   my"}
+		],
+    "translation": "It went into my foot",
+    "ref": "MR2-005_A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 269,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngan-yala�yala-n",
+    "english": "it / me  always bother Pres"}
+		],
+    "translation": "It's bothering me",
+    "ref": "Mang Stories_Merlan_19 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 270,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-ngi-yag jorroy-wu",
+    "english": "Let's you & I go bush medicine for"}
+		],
+    "translation": "Let's (you and I) go for  bush medicine",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 271,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mangaya jirray bordewg mawuj",
+    "english": "maybe   ate Past (he/she)   bad  food"}
+		],
+    "translation": "Maybe he/she ate bad food",
+    "ref": "Mang Stories_Merlan_18 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 272,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bordewg mangaya nga-jirray",
+    "english": "bad           maybe     I/it     ate (Past)"}
+		],
+    "translation": "Maybe I ate something bad",
+    "ref": "Mang Stories_Merlan_18 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 273,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mamayanggan mangaya la-wu-na (mawuj)",
+    "english": "old                     maybe   you mob / him  give Past (food)"}
+		],
+    "translation": "Maybe you gave him /her old (food)",
+    "ref": "Mang Stories_Merlan_18 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 274,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "malam-ngangga mangaya bobob ga-nya-ma",
+    "english": "body    your         maybe        hot  Pres  you"}
+		],
+    "translation": "maybe your body is hot (fever)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 275,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "malam-ngangga mangaya bobob ga-nya-ma",
+    "english": "body  your        maybe     is hot     Pres you"}
+		],
+    "translation": "maybe your body is hot (fever)",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 276,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-dumduma jarlu-nganju",
+    "english": "Pres I       swell       ear my"}
+		],
+    "translation": "My ear hurts / I've got a sore ear",
+    "ref": "Mang Stories_Merlan_19 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 277,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-nga-dumduma jib-nganju",
+    "english": "Pres I       swell       eye my"}
+		],
+    "translation": "My eye is swollen",
+    "ref": "Mang Stories_Merlan_17 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 278,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yulgmirn-gana  ja-murrma  ngarla-gagag",
+    "english": "sugar       from  Pres (he) sick  Subject T (Female) granny"}
+		],
+    "translation": "My granny is sick from sugar",
+    "ref": "Mang Stories_Merlan_21  MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 279,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bab-nganju na-miyarr-nganju garrag-wa ga-nga-na-n",
+    "english": "head my     with forehead my  whole lot    Pres  I  burn"}
+		],
+    "translation": "my head, my forehead the whole lot is",
+    "ref": "Mang Stories_Merlan_14 MR-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 280,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mirn-nganju ga-nga-murrma",
+    "english": "knee   my      Pres I    sore"}
+		],
+    "translation": "My knee hurts / I've got a sore knee",
+    "ref": "Mang Stories_Merlan_16 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 281,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-warma�warma miliny-nganju",
+    "english": "Pres (it) really running  nose  my"}
+		],
+    "translation": "my nose is really runny",
+    "ref": "Mang Stories_Merlan_15 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 282,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ga-ngan-galma dab-nganju",
+    "english": "Pres it / me  itches  skin my"}
+		],
+    "translation": "my skin is itchy",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 283,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngurlg mamayanggan",
+    "english": "animal fat     old"}
+		],
+    "translation": "old fat",
+    "ref": "Mang Stories_Merlan_18 MR2-015-A",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 284,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garlugu  na-gurrajnyin lurlurl� bu-yag",
+    "english": "poor thing  with  blood       pile up     self (Past)  (it)"}
+		],
+    "translation": "poor fella he/she bruised up (with blood)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 285,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garlugu ngadburr-awu jarrg bu-yag",
+    "english": "poor thing  hand       his     cut     self (Past) (he/it)"}
+		],
+    "translation": "Poor thing. he cut his hand",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 286,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "yesterday       and    her burn Past (he/it) Pres (he/it) has sore  her",
+    "english": "na-gurrajnyin lurlurl� bu-yag"}
+		],
+    "translation": "she has a sore",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 287,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngarla wanggij-ji",
+    "english": "she      child   with"}
+		],
+    "translation": "She's pregnant (with child)",
+    "ref": "MR2-005_A",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 288,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-jagina  ga-ngan-daya jarlu-nganju",
+    "english": "Subj T what Pres it / me  bite  ear  my"}
+		],
+    "translation": "Something is hurting (biting) my ear",
+    "ref": "Mang Stories_Merlan_19 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 289,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "dibdirib-ji",
+    "english": "sores    having"}
+		],
+    "translation": "the ones with sores",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 290,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "nginyjag wurla-ja",
+    "english": "can't          they/it  drink"}
+		],
+    "translation": "they can't eat it",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 291,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ber� ja-wurla-ma",
+    "english": "cut  Pres they/it"}
+		],
+    "translation": "They cut it",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 292,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ngugu jaw ja-wurla-bu-n",
+    "english": "water   pour Pres they/it"}
+		],
+    "translation": "they pour water in",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 293,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-wurla-bardnama na-barlarlbarlarl-an",
+    "english": "Pres they/it     put                 billy              in"}
+		],
+    "translation": "they put it in a billy",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 294,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wub ja-wurla-war na-damayi-an",
+    "english": "throw on fire Pres they/it fire     on"}
+		],
+    "translation": "they put it on the fire",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 295,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wirriyn wurla-bu-ni            nga-jirray   marnday  ngugu",
+    "english": "stirred   they    was (Past Cont) I/it  ate (Past)  sweet water"}
+		],
+    "translation": "They stirred it and I drank sweet water (a sugar drink)",
+    "ref": "Mang Stories_Merlan_21  MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 296,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "wurla-ga-ni gayarra hospital-lama",
+    "english": "they/him   take was (Past Cont)  west hospital  to"}
+		],
+    "translation": "They took her West (upriver) to hospital",
+    "ref": "Mang Stories_Merlan_21 MR2-015-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 297,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-wurla-ba�ma dim-burnya ja-wurla-nidba",
+    "english": "Pres they/it  wash  sore your  Pres they   have"}
+		],
+    "translation": "they wash their sores",
+    "ref": "MR2-014-A",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 298,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-wurla-bu-yi-n,",
+    "english": "Pres they hit self"}
+		],
+    "translation": "they're fighting",
+    "ref": "MR2-014-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 299,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "ja-wurla-bu-yi-n, na-jaginanggu?",
+    "english": "Pres they hit self    why"}
+		],
+    "translation": "they're fighting, why?",
+    "ref": "MR2-014-B",
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 300,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "gurlag",
+    "english": null}
+		],
+    "translation": "ti tree",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Bush Medicine"
+		}
+    "contenttags": null,
+    "functiontags": "Saying what action you are going to take"
+  },
+  {
+    "id": 301,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "marrb-nama",
+    "english": "tie up"}
+		],
+    "translation": "tie it up / bandage it up",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  },
+  {
+    "id": 302,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "will give he/you should you go  camp  to      should you sleep",
+    "english": "marrb-nama"}
+		],
+    "translation": "to camp and you should sleep",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  },
+  {
+    "id": 303,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "also   Pres  I      sick      with  same  my  with old                       my        also   with  new",
+    "english": "mirn-nganju ga-nga-murrma"}
+		],
+    "translation": "well as something new.",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 304,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "a-nyan-wu-n a-nya-yag barnam-garlama a-nya-yu",
+    "english": "will give he/you should you go  camp  to      should you sleep"}
+		],
+    "translation": "When he has given it to you should go back",
+    "ref": "Mang Stories_Merlan_22  MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  },
+  {
+    "id": 305,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-damayi na-ni",
+    "english": "with fire     burn was (Past Cont) (he)"}
+		],
+    "translation": "with fire (burnt himself)",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving explanation for sickness"
+  },
+  {
+    "id": 306,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "garlugu mulugmulug na-na jamgarr-ngayawu",
+    "english": "poor thing yesterday    burn Past (he/it)  foot     her"}
+		],
+    "translation": "Yesterday she burnt her foot",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 307,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mulugmulug na-na jamgarr-ngayawu",
+    "english": "yesterday     burn Past (he/it) foot        her"}
+		],
+    "translation": "Yesterday she burnt her foot",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 308,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mulugmulug ngadburr-ngayawu na-na ja-nidba dib-ngayawu",
+    "english": "yesterday       and    her burn Past (he/it) Pres (he/it) has sore  her"}
+		],
+    "translation": "Yesterday she burnt her hand,",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 309,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "mulugmulug na-na   lany-ngayawu",
+    "english": "yesterday     burn Past (he/it) leg    her"}
+		],
+    "translation": "Yesterday she burnt her leg",
+    "ref": "MR2-003-B",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 310,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "na-mirnurr ga-nyan-bu-n",
+    "english": "Subj T cold  Pres it / you hit"}
+		],
+    "translation": "You have a cold (a cold hit you)",
+    "ref": "Mang Stories_Merlan_22 MR2-015-B",
+    "speaker": "Sheila Conway",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Saying What's wrong"
+  },
+  {
+    "id": 311,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "jijga-ba  a-ngan-wu-n mawuj",
+    "english": "little Emph could you/me give food"}
+		],
+    "translation": "you should give me a little something to eat",
+    "ref": null,
+    "speaker": null,
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  },
+  {
+    "id": 312,
+    "context": null,
+    "headword": null,
+		[
+    {"Mangarrayi": "bamburriyi ga-nya-jabulma",
+    "english": "better         Pres  you  smoke"}
+		],
+    "translation": "You'd better have a smoke",
+    "ref": "MR2-005_A 40:37",
+    "speaker": "Amy Dirn.gayg",
+    "category" : 
+		{
+			1:  "HEALTH AND BODY CARE",
+    		2: "Sickness"
+		}
+    "contenttags": null,
+    "functiontags": "Giving advice"
+  }
+]		
+}
