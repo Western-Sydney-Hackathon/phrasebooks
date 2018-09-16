@@ -3,20 +3,20 @@
     {
     "name":"CDAusE",
     "schema":{
-        "id":"auto-increment",
-        "headword":"headword of the entry in the dictionary",
-        "context":"carrier sentence",
+        "id":"entryid",
+        "headword":"entrytitle",
+        "context":"context",
         "phrases":[
-          {"ste":"standard translatable English",
-          "nsm":"natural semantic metalanguage"},
+          {"ste":"ste - line",
+          "nsm":"nsm - line"},
         ],
         "translation":null,
-        "ref":"bibtex reference",
+        "ref":"ref",
         "filename":null,
         "speaker":null,
         "category":{
-          "1":"chapter",
-          "2":"section"
+          "1":"chaptertitle",
+          "2":"sectiontitle"
         },
         "contenttags":["relatedphrase","relatedvalue","relatedword"],
         "functiontags":null,
