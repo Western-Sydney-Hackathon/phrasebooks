@@ -63,14 +63,17 @@ $(document).ready(function() { // wait for document object to be ready before ex
     console.log(unique);
     element.innerHTML = null; // clear div
     element.setAttribute("id", button_element + "list");
+    element.setAttribute("class", "cat2list")
     unique.forEach(function(x){ // loop through the unique subcategories
       console.log(x)
-      var node = document.createElement("a");
+      var div = document.createElement("div");
+      var anchor = document.createElement("a");
       var textnode = document.createTextNode(x);
-      node.appendChild(textnode);
-      node.setAttribute("class", "cat2result");
-      node.setAttribute("href", "results.html?id=" + x); // send user to results page when they click
-      document.getElementById(button_element + "list").appendChild(node);
+      anchor.appendChild(textnode);
+      anchor.setAttribute("href", "results.html?id=" + x); // send user to results page when they click
+      div.setAttribute("class", "cat2result");
+      div.appendChild(anchor);
+      document.getElementById(button_element + "list").appendChild(div);
     })
   }
 

@@ -1,8 +1,81 @@
 /* Arrangement of divs */
 
-#search-boxes {
-    
+body {
+  margin:0;
+  background-color: #e6e2d3;
 }
-#search-boxes div {
 
+h1 {
+  width: 100%;
+  height: 30px;
+  background-color: #3e4444;
+  color: #FFFFFF;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+div {
+  font-family: sans-serif;
+}
+
+#intro {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#search-boxes {
+  display:flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.cat1button {
+  width: 50%;
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #c1946a;
+  color: #000000;
+  cursor: pointer;
+}
+
+.cat1button:hover {
+  background-color: #405d27;
+  color: #FFFFFF;
+}
+
+.cat2list {
+  display:flex;
+  justify-content: space-around;
+  width: 50%;
+  height: 100px;
+  background-color: #e0b894;
+}
+
+.cat2result {
+  display: inline-block;
+  height: 20vh;
+  width: 20vh;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #e0b894;
+  color: #000000;
+}
+
+.cat2result:hover {
+  background-color: #405d27;
+  color: #FFFFFF;
+}
+
+a {
+  position:relative;
+  margin:auto;
+  text-decoration:none;
+  color:inherit;
 }
