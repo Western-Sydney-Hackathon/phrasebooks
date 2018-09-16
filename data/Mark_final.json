@@ -1,4 +1,4 @@
-{ "entries"; 
+{ "entries": 
 [
   {
     "id": 1,
@@ -12,7 +12,7 @@
     "translation": "Let's (you and I) go for  bush medicine",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -32,7 +32,7 @@
     "translation": "we were getting jorroy",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -52,7 +52,7 @@
     "translation": "Let's (they & I) go",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -72,7 +72,7 @@
     "translation": "Let's (they & I) get",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -92,7 +92,7 @@
     "translation": "Let's (they & I) go and get",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -112,7 +112,7 @@
     "translation": "then we get it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -132,7 +132,7 @@
     "translation": "Darling I'll get you ...",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -152,7 +152,7 @@
     "translation": "you're getting that bush medicine",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -172,7 +172,7 @@
     "translation": "you get some bush medicine",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -192,7 +192,7 @@
     "translation": "you get that bush medicine",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -212,7 +212,7 @@
     "translation": "You get it",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -232,7 +232,7 @@
     "translation": "those two were taking them off (leaves)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -252,7 +252,7 @@
     "translation": "What's this?",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -272,7 +272,7 @@
     "translation": "you break it off",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -292,7 +292,7 @@
     "translation": "you cut it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -312,7 +312,7 @@
     "translation": "They break it and we take it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -332,7 +332,7 @@
     "translation": "you cut it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -352,7 +352,7 @@
     "translation": "she takes off the leaves for sores",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -372,7 +372,7 @@
     "translation": "they are leaves",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -392,7 +392,7 @@
     "translation": "ti tree",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -412,7 +412,7 @@
     "translation": "gutta percha",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -432,7 +432,7 @@
     "translation": "mistletoe",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -452,7 +452,7 @@
     "translation": "the tea-bag plant Vix",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -472,7 +472,7 @@
     "translation": "for bush medicine",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -492,7 +492,7 @@
     "translation": "you scrape it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -512,7 +512,7 @@
     "translation": "you will scrape  it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -532,7 +532,7 @@
     "translation": "scrape it off you",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -552,7 +552,7 @@
     "translation": "you take off the bark (skin im up)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -572,7 +572,7 @@
     "translation": "you scrape it",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -592,7 +592,7 @@
     "translation": "now she is putting in the leaves",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -612,7 +612,7 @@
     "translation": "its leaves",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -632,7 +632,7 @@
     "translation": "they are leaves",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -652,7 +652,7 @@
     "translation": "she was throwing more leaves (into the container)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -672,7 +672,7 @@
     "translation": "get that water",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -692,7 +692,7 @@
     "translation": "she's getting more water",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -712,7 +712,7 @@
     "translation": "You should put water in it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -732,7 +732,7 @@
     "translation": "you put it in the billy",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -752,7 +752,7 @@
     "translation": "you put it in the container (billy)",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -772,7 +772,7 @@
     "translation": "you put it in cold water",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -792,7 +792,7 @@
     "translation": "you should put it when you are cold",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -812,7 +812,7 @@
     "translation": "have a wash in it",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -832,7 +832,7 @@
     "translation": "he puts it in the shade",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -852,7 +852,7 @@
     "translation": "get it later",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -872,7 +872,7 @@
     "translation": "put it on the fire",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -892,7 +892,7 @@
     "translation": "it is burning (cooking) on the fire",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -912,7 +912,7 @@
     "translation": "he put it on the fire",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -932,7 +932,7 @@
     "translation": "in the cup",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -952,7 +952,7 @@
     "translation": "put it on the fire",
     "ref": "Sheila_bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -972,7 +972,7 @@
     "translation": "you should cook it on the fire",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -992,7 +992,7 @@
     "translation": "put lots of it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1012,7 +1012,7 @@
     "translation": "later you should get it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1032,7 +1032,7 @@
     "translation": "They put it in the food in the coolamon",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1052,7 +1052,7 @@
     "translation": "it can sit (on the fire)",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1072,7 +1072,7 @@
     "translation": "later when it is cool",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1092,7 +1092,7 @@
     "translation": "when it's cold",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1112,7 +1112,7 @@
     "translation": "when it was cold",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1132,7 +1132,7 @@
     "translation": "(when) it's cold",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1152,7 +1152,7 @@
     "translation": "They cut it",
     "ref": "MR2-014-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1172,7 +1172,7 @@
     "translation": "they put it on the fire",
     "ref": "MR2-014-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1192,7 +1192,7 @@
     "translation": "they put it in a billy",
     "ref": "MR2-014-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1212,7 +1212,7 @@
     "translation": "pour it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1232,7 +1232,7 @@
     "translation": "he pours water",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1252,7 +1252,7 @@
     "translation": "he pours it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1272,7 +1272,7 @@
     "translation": "she doesn't pile it up (ie pours slowly)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1292,7 +1292,7 @@
     "translation": "dried out",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1312,7 +1312,7 @@
     "translation": "dried out",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1332,7 +1332,7 @@
     "translation": "old (used for dried ones)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1352,7 +1352,7 @@
     "translation": "maybe it gets good (It is ready?)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1372,7 +1372,7 @@
     "translation": "that's it (its ready)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1392,7 +1392,7 @@
     "translation": "that's it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1412,7 +1412,7 @@
     "translation": "you are washing",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1432,7 +1432,7 @@
     "translation": "Maybe you will  wash",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1452,7 +1452,7 @@
     "translation": "you get that one and you wash",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1472,7 +1472,7 @@
     "translation": "you wash",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1492,7 +1492,7 @@
     "translation": "When your body feels bad we splash water                        (with) that one",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1512,7 +1512,7 @@
     "translation": "Did you wash yesterday?",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1532,7 +1532,7 @@
     "translation": "yesterday",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1552,7 +1552,7 @@
     "translation": "I had a wash",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1572,7 +1572,7 @@
     "translation": "spalsh water on yourself",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1592,7 +1592,7 @@
     "translation": "splash water on yourself",
     "ref": "bush medicine July18.mp3",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1612,7 +1612,7 @@
     "translation": "drink water",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1632,7 +1632,7 @@
     "translation": "you drink that",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1652,7 +1652,7 @@
     "translation": "what water will she drink ?",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1672,7 +1672,7 @@
     "translation": "where is the water that to drink",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1692,7 +1692,7 @@
     "translation": "Drink a little when it is cold",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1712,7 +1712,7 @@
     "translation": "a little bit",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1732,7 +1732,7 @@
     "translation": "that (girl) child is bringing a cup",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1752,7 +1752,7 @@
     "translation": "you, you get it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1772,7 +1772,7 @@
     "translation": "crunchy",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1792,7 +1792,7 @@
     "translation": "tie it up with a bandage",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1812,7 +1812,7 @@
     "translation": "you put a bandage on",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1832,7 +1832,7 @@
     "translation": "bandage it up",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1852,7 +1852,7 @@
     "translation": "it makes you stronger",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1872,7 +1872,7 @@
     "translation": "that's all",
     "ref": "bush medicine_18 July_18",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1892,7 +1892,7 @@
     "translation": "your body is cold (you are cold)",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1912,7 +1912,7 @@
     "translation": "When that was cold those two heated it    I was bogeying",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1932,7 +1932,7 @@
     "translation": "you wash when you are cold maybe straight away",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1952,7 +1952,7 @@
     "translation": "maybe better you take it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1972,7 +1972,7 @@
     "translation": "you should take it",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -1992,7 +1992,7 @@
     "translation": "Maybe you are hot and your body",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -2012,7 +2012,7 @@
     "translation": "is burning up you bogey in that",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -2032,7 +2032,7 @@
     "translation": "for sores",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -2052,7 +2052,7 @@
     "translation": "we put this on when we have sores",
     "ref": "Sheila_Syrita_Friday 20 July",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH & BODY CARE",
     		"2": "Bush Medicine"
@@ -2072,7 +2072,7 @@
     "translation": "First Homestead (Warloch Ponds)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2092,7 +2092,7 @@
     "translation": "Second Homestead (Red Lily)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2112,7 +2112,7 @@
     "translation": "Warloch Ponds",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2132,7 +2132,7 @@
     "translation": "The Jungle",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2152,7 +2152,7 @@
     "translation": "Red Lily",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2172,7 +2172,7 @@
     "translation": "2 Mile",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2192,7 +2192,7 @@
     "translation": "where the Yam got up (dreaming)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2212,7 +2212,7 @@
     "translation": "Current Station",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2232,7 +2232,7 @@
     "translation": null,
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2252,7 +2252,7 @@
     "translation": "Old name for Community (Also refrred to as Duck Creek)",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2272,7 +2272,7 @@
     "translation": "Current  Name for community",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2292,7 +2292,7 @@
     "translation": "I live in Jilkminggan",
     "ref": "MR2-003-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2312,7 +2312,7 @@
     "translation": null,
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2332,7 +2332,7 @@
     "translation": "to Barlmarrag",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2352,7 +2352,7 @@
     "translation": "The Crossing (also referred to as Wurlulu - running water ie rapids)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2372,7 +2372,7 @@
     "translation": "Elsey Falls",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2392,7 +2392,7 @@
     "translation": "Mataranka Falls",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2412,7 +2412,7 @@
     "translation": "area of Eucalyptus trees on the bank",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2432,7 +2432,7 @@
     "translation": "12 Mile",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2452,7 +2452,7 @@
     "translation": null,
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2472,7 +2472,7 @@
     "translation": "Mataranka Homestead",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2492,7 +2492,7 @@
     "translation": "Bitter Springs",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2512,7 +2512,7 @@
     "translation": "Old name for Mataranka as it used to be a railway siding",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2532,7 +2532,7 @@
     "translation": "from Mataranka_",
     "ref": "MR2-003-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2552,7 +2552,7 @@
     "translation": "Donkey Flat",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2572,7 +2572,7 @@
     "translation": "Long Reach",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Place"
@@ -2592,7 +2592,7 @@
     "translation": "the big river",
     "ref": "MR2-001-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2612,7 +2612,7 @@
     "translation": null,
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2632,7 +2632,7 @@
     "translation": "plain",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2652,7 +2652,7 @@
     "translation": "clay pans",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2672,7 +2672,7 @@
     "translation": "mud, muddy place",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2692,7 +2692,7 @@
     "translation": "bush",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2712,7 +2712,7 @@
     "translation": "scrub (area on road out of community) CHECK",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2732,7 +2732,7 @@
     "translation": "desert country (in Yangman buyirrin)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2752,7 +2752,7 @@
     "translation": "without water",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2772,7 +2772,7 @@
     "translation": "black soil country",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2792,7 +2792,7 @@
     "translation": "billabong",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2812,7 +2812,7 @@
     "translation": "water",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2832,7 +2832,7 @@
     "translation": "salt water",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2852,7 +2852,7 @@
     "translation": "river",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2872,7 +2872,7 @@
     "translation": "creek (tributary)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2892,7 +2892,7 @@
     "translation": "running water (rapids)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Landscape"
@@ -2912,7 +2912,7 @@
     "translation": "East (Sun up)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -2932,7 +2932,7 @@
     "translation": "down river (East)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -2952,7 +2952,7 @@
     "translation": "West (Sun go down)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -2972,7 +2972,7 @@
     "translation": "up river (West)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -2992,7 +2992,7 @@
     "translation": "North",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3012,7 +3012,7 @@
     "translation": "South",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3032,7 +3032,7 @@
     "translation": "the sun rises in the east",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3052,7 +3052,7 @@
     "translation": "the sun rises in the east",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3072,7 +3072,7 @@
     "translation": "the sun comes up there  in the east",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3092,7 +3092,7 @@
     "translation": "Where is the crossing?",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3112,7 +3112,7 @@
     "translation": "Where do they get tucker?",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3132,7 +3132,7 @@
     "translation": "that is just there to the South",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3152,7 +3152,7 @@
     "translation": "go just there to the South",
     "ref": "MR2-003-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3172,7 +3172,7 @@
     "translation": "Just over there, west, upriver",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3192,7 +3192,7 @@
     "translation": "we go here and there",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3212,7 +3212,7 @@
     "translation": "I go over that way",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3232,7 +3232,7 @@
     "translation": "this side of the river",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3252,7 +3252,7 @@
     "translation": "just there upriver",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3272,7 +3272,7 @@
     "translation": "just there East",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3292,7 +3292,7 @@
     "translation": "they went somewhere, they were going there",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3312,7 +3312,7 @@
     "translation": "just here not far",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3332,7 +3332,7 @@
     "translation": "far away",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3352,7 +3352,7 @@
     "translation": "close by",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Directions"
@@ -3372,7 +3372,7 @@
     "translation": "It's sunny",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3392,7 +3392,7 @@
     "translation": "the sun rises",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3412,7 +3412,7 @@
     "translation": "It's windy",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3432,7 +3432,7 @@
     "translation": "look at (as in wow!) the wind",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3452,7 +3452,7 @@
     "translation": "it's raining (the rain is falling)",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3472,7 +3472,7 @@
     "translation": "it's raining a little",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3492,7 +3492,7 @@
     "translation": "It's not raining a lot",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3512,7 +3512,7 @@
     "translation": "It's cloudy",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3532,7 +3532,7 @@
     "translation": "when the clouds arrive they cover the sun",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3552,7 +3552,7 @@
     "translation": "the wind swirls",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3572,7 +3572,7 @@
     "translation": "It's cold / I'm cold",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3592,7 +3592,7 @@
     "translation": "It's cold / I'm cold",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3612,7 +3612,7 @@
     "translation": "It's hot / I'm hot",
     "ref": "MR2_002_B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3632,7 +3632,7 @@
     "translation": "we don't stay at home",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3652,7 +3652,7 @@
     "translation": "we can't go walkabout in the heavy rain",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3672,7 +3672,7 @@
     "translation": "It is burning me (the sun)",
     "ref": "Sheila _Gina_3_5_17_STE-006_01",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3692,7 +3692,7 @@
     "translation": "I'm sitting here in the sun",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3712,7 +3712,7 @@
     "translation": "in the sun",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3732,7 +3732,7 @@
     "translation": "When I was cold I go inside",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3752,7 +3752,7 @@
     "translation": "When the sun is burning me,",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3772,7 +3772,7 @@
     "translation": "I might sit in the shade",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3792,7 +3792,7 @@
     "translation": "shade",
     "ref": "MR2-003-A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3812,7 +3812,7 @@
     "translation": "(also used for bough shade and hat)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3832,7 +3832,7 @@
     "translation": "cold season",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3852,7 +3852,7 @@
     "translation": "in the cold season",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3872,7 +3872,7 @@
     "translation": "hot season",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3892,7 +3892,7 @@
     "translation": "in the hot season",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3912,7 +3912,7 @@
     "translation": "rainy season",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3932,7 +3932,7 @@
     "translation": "in the rainy season",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "Country Place",
     		"2": "Weather"
@@ -3952,7 +3952,7 @@
     "translation": "Every day I have a wash",
     "ref": "MR2-003-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Body Parts"
@@ -3972,7 +3972,7 @@
     "translation": "I'm having a wash",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Body Parts"
@@ -3992,7 +3992,7 @@
     "translation": "I will wash my hands.",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Body Parts"
@@ -4012,7 +4012,7 @@
     "translation": "I am cleaning my teeth.",
     "ref": "MR2-003-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Body Parts"
@@ -4032,7 +4032,7 @@
     "translation": "I am going to clean my teeth.",
     "ref": "MR2-003-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Body Parts"
@@ -4052,7 +4052,7 @@
     "translation": "Every day I make myself look good. (get myself ready)",
     "ref": "MR2-003-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Body Parts"
@@ -4072,7 +4072,7 @@
     "translation": "I'm cold (the cold is biting me)",
     "ref": "MR2-003-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "States"
@@ -4092,7 +4092,7 @@
     "translation": "I'm hot",
     "ref": "MR2-002-B",
     "speaker": "amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "States"
@@ -4112,7 +4112,7 @@
     "translation": "I'm hungry",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "States"
@@ -4132,7 +4132,7 @@
     "translation": "I'm really hungry",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "States"
@@ -4152,7 +4152,7 @@
     "translation": "I'm really hungry (sound of voice on durdurla makes it strong)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "States"
@@ -4172,7 +4172,7 @@
     "translation": "I'm not really hungry",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "States"
@@ -4192,7 +4192,7 @@
     "translation": "What's wrong with you?",
     "ref": "Mang Stories_Merlan_13 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4212,7 +4212,7 @@
     "translation": "Have you got a sore nose?",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4232,7 +4232,7 @@
     "translation": "You broke your hand? / Did you break your hand?",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4252,7 +4252,7 @@
     "translation": "Did you break your nose yesterday?",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4272,7 +4272,7 @@
     "translation": "I'm sick  / I feel sick",
     "ref": "Mang Stories_Merlan_20  MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4292,7 +4292,7 @@
     "translation": "I have a sore stomach / stomach ache.",
     "ref": "Mang Stories_Merlan_13 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4312,7 +4312,7 @@
     "translation": "I have a sore stomach / stomach ache.",
     "ref": "Mang Stories_Merlan_20 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4332,7 +4332,7 @@
     "translation": "My head hurts",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4352,7 +4352,7 @@
     "translation": "A big native bee (is doing something)          A lot of native bees (are doing something)",
     "ref": "Mang Stories_Merlan_17 MR2-015-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4372,7 +4372,7 @@
     "translation": "A March fly is biting me / March flies are biting me",
     "ref": "Mang Stories_Merlan_17 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4392,7 +4392,7 @@
     "translation": "a native bee bit me / Native bees are biting me",
     "ref": "Mang Stories_Merlan_17 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4412,7 +4412,7 @@
     "translation": "a tree branch scratched me",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4432,7 +4432,7 @@
     "translation": "After that you should go back to work",
     "ref": "Mang Stories_Merlan_22 MR2-015-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4452,7 +4452,7 @@
     "translation": "afterwards I was happy",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4472,7 +4472,7 @@
     "translation": "burning.",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4492,7 +4492,7 @@
     "translation": "Go now to the doctor for medicine",
     "ref": "Mang Stories_Merlan_22 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4512,7 +4512,7 @@
     "translation": "gutta percha",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -4532,7 +4532,7 @@
     "translation": "He /she bruised up",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4552,7 +4552,7 @@
     "translation": "He cut himself / She cut herself",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4572,7 +4572,7 @@
     "translation": "He/she has diarrhea",
     "ref": "Mang Stories_Merlan_18 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4592,7 +4592,7 @@
     "translation": "He/she slipped and cut himself/herself",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4612,7 +4612,7 @@
     "translation": "He/she was cutting meat",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4632,7 +4632,7 @@
     "translation": "He's/she's sick send him/her home to sleep",
     "ref": "MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4652,7 +4652,7 @@
     "translation": "I am a little bit happy",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4672,7 +4672,7 @@
     "translation": "I am happy",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4692,7 +4692,7 @@
     "translation": "I ate sweet sugar",
     "ref": "Mang Stories_Merlan_21  MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4712,7 +4712,7 @@
     "translation": "I broke my leg",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4732,7 +4732,7 @@
     "translation": "I broke my leg",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4752,7 +4752,7 @@
     "translation": "I can't be at school / I shouldn't be at school",
     "ref": "Mang Stories_Merlan_20  MR2-015-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4772,7 +4772,7 @@
     "translation": "I cut my hand",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4792,7 +4792,7 @@
     "translation": "I didn't sleep",
     "ref": "Mang Stories_Merlan_19 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4812,7 +4812,7 @@
     "translation": "I didn't sleep",
     "ref": "Mang Stories_Merlan_19 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4832,7 +4832,7 @@
     "translation": "I have a new cold (a cold hit me)",
     "ref": "Mang Stories_Merlan_15 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4852,7 +4852,7 @@
     "translation": "I might eat a little something",
     "ref": "MR2-003-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4872,7 +4872,7 @@
     "translation": "I slipped",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4892,7 +4892,7 @@
     "translation": "I was running now my foot hurts",
     "ref": "MR2-005_A 40:36",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4912,7 +4912,7 @@
     "translation": "I went (walked) a long way",
     "ref": "Mang Stories_Merlan_16 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4932,7 +4932,7 @@
     "translation": "I will eat a little something to eat",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4952,7 +4952,7 @@
     "translation": "I will have a drink and have a rest",
     "ref": "MR2-005-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4972,7 +4972,7 @@
     "translation": "I'll come back when I feel better.",
     "ref": "Mang Stories_Merlan_14 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -4992,7 +4992,7 @@
     "translation": "I'm coughing",
     "ref": "Mang Stories_Merlan_15 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5012,7 +5012,7 @@
     "translation": "I'm going back to camp",
     "ref": "Mang Stories_Merlan_20  MR2-015-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5032,7 +5032,7 @@
     "translation": "I'm going back to camp first to sleep",
     "ref": "Mang Stories_Merlan_14 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5052,7 +5052,7 @@
     "translation": "I'm going to the doctor",
     "ref": "Mang Stories_Merlan_19 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5072,7 +5072,7 @@
     "translation": "I'm having a rest",
     "ref": "MR2-005-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5092,7 +5092,7 @@
     "translation": "I'm scratching my hand",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5112,7 +5112,7 @@
     "translation": "I'm scratching my leg",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5132,7 +5132,7 @@
     "translation": "I'm scratching my nose",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5152,7 +5152,7 @@
     "translation": "I'm scratching my nose",
     "ref": "MR2-003-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5172,7 +5172,7 @@
     "translation": "I'm sick again with the same old thing as",
     "ref": "Mang Stories_Merlan_16 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5192,7 +5192,7 @@
     "translation": "I'm tired today",
     "ref": "MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5212,7 +5212,7 @@
     "translation": "it burnt her leg (eg fire)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5232,7 +5232,7 @@
     "translation": "It cut my hand",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5252,7 +5252,7 @@
     "translation": "It is dark (bruise)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5272,7 +5272,7 @@
     "translation": "It is getting dark (bruise) / it is darkening up",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5292,7 +5292,7 @@
     "translation": "It scratched me",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5312,7 +5312,7 @@
     "translation": "It went into my foot",
     "ref": "MR2-005_A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5332,7 +5332,7 @@
     "translation": "It's bothering me",
     "ref": "Mang Stories_Merlan_19 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5352,7 +5352,7 @@
     "translation": "Let's (you and I) go for  bush medicine",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5372,7 +5372,7 @@
     "translation": "Maybe he/she ate bad food",
     "ref": "Mang Stories_Merlan_18 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5392,7 +5392,7 @@
     "translation": "Maybe I ate something bad",
     "ref": "Mang Stories_Merlan_18 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5412,7 +5412,7 @@
     "translation": "Maybe you gave him /her old (food)",
     "ref": "Mang Stories_Merlan_18 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5432,7 +5432,7 @@
     "translation": "maybe your body is hot (fever)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5452,7 +5452,7 @@
     "translation": "maybe your body is hot (fever)",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5472,7 +5472,7 @@
     "translation": "My ear hurts / I've got a sore ear",
     "ref": "Mang Stories_Merlan_19 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5492,7 +5492,7 @@
     "translation": "My eye is swollen",
     "ref": "Mang Stories_Merlan_17 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5512,7 +5512,7 @@
     "translation": "My granny is sick from sugar",
     "ref": "Mang Stories_Merlan_21  MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5532,7 +5532,7 @@
     "translation": "my head, my forehead the whole lot is",
     "ref": "Mang Stories_Merlan_14 MR-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5552,7 +5552,7 @@
     "translation": "My knee hurts / I've got a sore knee",
     "ref": "Mang Stories_Merlan_16 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5572,7 +5572,7 @@
     "translation": "my nose is really runny",
     "ref": "Mang Stories_Merlan_15 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5592,7 +5592,7 @@
     "translation": "my skin is itchy",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5612,7 +5612,7 @@
     "translation": "old fat",
     "ref": "Mang Stories_Merlan_18 MR2-015-A",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5632,7 +5632,7 @@
     "translation": "poor fella he/she bruised up (with blood)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5652,7 +5652,7 @@
     "translation": "Poor thing. he cut his hand",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5672,7 +5672,7 @@
     "translation": "she has a sore",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5692,7 +5692,7 @@
     "translation": "She's pregnant (with child)",
     "ref": "MR2-005_A",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5712,7 +5712,7 @@
     "translation": "Something is hurting (biting) my ear",
     "ref": "Mang Stories_Merlan_19 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5732,7 +5732,7 @@
     "translation": "the ones with sores",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5752,7 +5752,7 @@
     "translation": "they can't eat it",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5772,7 +5772,7 @@
     "translation": "They cut it",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5792,7 +5792,7 @@
     "translation": "they pour water in",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5812,7 +5812,7 @@
     "translation": "they put it in a billy",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5832,7 +5832,7 @@
     "translation": "they put it on the fire",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5852,7 +5852,7 @@
     "translation": "They stirred it and I drank sweet water (a sugar drink)",
     "ref": "Mang Stories_Merlan_21  MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5872,7 +5872,7 @@
     "translation": "They took her West (upriver) to hospital",
     "ref": "Mang Stories_Merlan_21 MR2-015-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5892,7 +5892,7 @@
     "translation": "they wash their sores",
     "ref": "MR2-014-A",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5912,7 +5912,7 @@
     "translation": "they're fighting",
     "ref": "MR2-014-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5932,7 +5932,7 @@
     "translation": "they're fighting, why?",
     "ref": "MR2-014-B",
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5952,7 +5952,7 @@
     "translation": "ti tree",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Bush Medicine"
@@ -5972,7 +5972,7 @@
     "translation": "tie it up / bandage it up",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -5992,7 +5992,7 @@
     "translation": "to camp and you should sleep",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6012,7 +6012,7 @@
     "translation": "well as something new.",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6032,7 +6032,7 @@
     "translation": "When he has given it to you should go back",
     "ref": "Mang Stories_Merlan_22  MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6052,7 +6052,7 @@
     "translation": "with fire (burnt himself)",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6072,7 +6072,7 @@
     "translation": "Yesterday she burnt her foot",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6092,7 +6092,7 @@
     "translation": "Yesterday she burnt her foot",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6112,7 +6112,7 @@
     "translation": "Yesterday she burnt her hand,",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6132,7 +6132,7 @@
     "translation": "Yesterday she burnt her leg",
     "ref": "MR2-003-B",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6152,7 +6152,7 @@
     "translation": "You have a cold (a cold hit you)",
     "ref": "Mang Stories_Merlan_22 MR2-015-B",
     "speaker": "Sheila Conway",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6172,7 +6172,7 @@
     "translation": "you should give me a little something to eat",
     "ref": null,
     "speaker": null,
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6192,7 +6192,7 @@
     "translation": "You'd better have a smoke",
     "ref": "MR2-005_A 40:37",
     "speaker": "Amy Dirn.gayg",
-    "category" : 
+    "category" :
 		{
 			"1":  "HEALTH AND BODY CARE",
     		"2": "Sickness"
@@ -6200,5 +6200,5 @@
     "contenttags": null,
     "functiontags": "Giving advice"
   }
-]		
+]
 }
